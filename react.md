@@ -13,9 +13,9 @@
 
 - [REACT RESOURCES](https://reactresources.com/)
 
-  -[SIX WAYS TO GET BETTER AT REACT](https://frontend-digest.com/six-ways-to-get-better-at-react-ccb321a7c35)
+- [SIX WAYS TO GET BETTER AT REACT](https://frontend-digest.com/six-ways-to-get-better-at-react-ccb321a7c35)
 
-  -[REACT PROJECT IDEAD](https://remarkablecoder.com/react-project-ideas/)
+- [REACT PROJECT IDEAD](https://remarkablecoder.com/react-project-ideas/)
 
 ## GITHUB REPOS
 

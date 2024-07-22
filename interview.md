@@ -2,9 +2,9 @@
 
 ## SYSTEM DESIGN
 
--[HOW TO DESIGN A HOTEL BOOKING SYSTEM](https://javascript.plainenglish.io/how-to-design-a-hotel-booking-system-56ef18b6adfc)
+- [HOW TO DESIGN A HOTEL BOOKING SYSTEM](https://javascript.plainenglish.io/how-to-design-a-hotel-booking-system-56ef18b6adfc)
 
--[TOP 50 SYSTEM DESIGN TERMINOLOGIES](https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1)
+- [TOP 50 SYSTEM DESIGN TERMINOLOGIES](https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1)
 
 ## THINGS TO KNOW AS A WEB DEVELOPER
 
