@@ -6,3 +6,5 @@
 - [NEXTJS GUIDE](./nextjs-links.md)
 - [REACT GUIDE](./react.md)
 - [VSCODE EXTENSIONS GUIDE](./vscode-extensions.md)
+- [DESIGN RESOURCES](./design-resources.md)
+- [TYPESCRIPT](./typescript.md)

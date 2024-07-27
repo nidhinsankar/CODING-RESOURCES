@@ -5,6 +5,8 @@
 - [REACT FIBER](https://flexiple.com/react/react-fiber)
 - [HOW REACT WORKS BEHIND THE SCENES A DETAILED EXPLANATION OF LOADING A UI ON SCREEN BY REACT](https://medium.com/@navnit0707/how-react-works-behind-the-scene-a-detailed-explanation-of-loading-a-ui-on-screen-by-react-ccd62e27f631) -[REACT RECONCILLATION REACT FIBER LABEL](https://levelup.gitconnected.com/react-reconciliation-react-fiber-babel-85a2219bd88e)
 
+- [MASTETING REACT A DEVELOPERS GUIDE TO STRUCTURE YOUR FRONTEND CODE](https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5)
+
 ## OPTIMISATION BLOGS
 
 -[CODE SPLITTING WHAT WHEN AND WHY](https://dev.to/thekashey/code-splitting-what-when-and-why-59op)
