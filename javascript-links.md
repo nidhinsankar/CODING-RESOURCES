@@ -43,3 +43,5 @@
 - [THE ULTIMATE GUIDE TO GENERATING KILLER SAAS IDEAS](https://blog.stackademic.com/the-ultimate-guide-to-generating-killer-saas-ideas-in-2024-e02a4290bcc0?gi=aba7e1b2d5ec)
 
 - [FRONTEND CODE GENERATOR](https://theresanaiforthat.com/s/frontend+code+generator/)
+
+- [I HAVE NEVER USED A LIBRARY FRAMEWORK OR AN API I DONT KNOW WHAT TO DO](https://javascript.plainenglish.io/i-have-never-used-a-library-framework-or-an-api-i-dont-know-what-to-do-8f483a5806d1)
