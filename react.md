@@ -15,6 +15,8 @@
 
 - [REACT RESOURCES](https://reactresources.com/)
 
+- [A DEEP DIVE INTO MICRO FRONTEND ARCHITECTURE](https://medium.com/@isuruariyarathna2k00/a-deep-dive-into-micro-frontend-architecture-with-react-js-264ca6edca6b)
+
 - [SIX WAYS TO GET BETTER AT REACT](https://frontend-digest.com/six-ways-to-get-better-at-react-ccb321a7c35)
 
 - [REACT PROJECT IDEAD](https://remarkablecoder.com/react-project-ideas/)
