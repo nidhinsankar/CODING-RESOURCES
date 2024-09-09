@@ -1,0 +1,3 @@
+- [9 OPEN SOURCE NEXTJS PROJECTS OPEN FOR CONTRIBUTION](https://dev.to/devkiran/9-open-source-nextjs-projects-open-for-contributions-272c)
+- [OPEN SOURCE REACT PROJECTS TO CONTRIBUTE FROM NOVICE TO EXPERT](https://osssoftware.org/blog/open-source-react-projects-to-contribute-from-novice-to-expert/)
+- [BEST LARGE OPEN SOURCE NEXTJS PROJECTS TO STUDY](https://www.greatfrontend.com/blog/best-large-open-source-nextjs-projects-to-study)

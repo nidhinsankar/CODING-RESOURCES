@@ -6,6 +6,8 @@
 
 - [START MAKING A TON OF MONEY AS A DEVELOPER MY CAREER](https://medium.com/developers-corner/start-making-ton-of-money-as-a-developer-my-career-way-4be9e3774177)
 
+- [NEXTJS FOLDER STRUCTURE FOR LARGE SCALE APP](https://www.freedium.cfd/https://blog.stackademic.com/next-js-mastery-setting-up-a-large-and-scalable-next-js-project-in-2024-46f0f1873fdc)
+
 ## NEXTJS + APPWRITE
 
 - [NEXTJS APPWRITE](https://livecycle.io/blogs/nextjs-appwrite/)

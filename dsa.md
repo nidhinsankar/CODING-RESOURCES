@@ -5,3 +5,5 @@
 - [LEARNING DSA AFTER 4 YEARS DSA AFTER 4 YEARS](https://freedium.cfd/https://blog.stackademic.com/learning-dsa-after-4-years-of-experience-cf0050e7e770)
 
 - [HOW I MASTERED DATA STRUCTURES AND ALGORITHMS](https://medium.com/@ashishps/how-i-mastered-data-structures-and-algorithms-eb8c5273c56d)
+
+- [LEETCODE WAS HARD UNTIL I LEARNED THESE 15 PATTERNS](https://medium.com/@ashishps/leetcode-was-hard-until-i-learned-these-15-patterns-19d15f6d71f1)

@@ -28,3 +28,5 @@
 ## PORTFOLIO IDEAS
 
 - [15 PORTFOLIO REACT PORTFOLIO TEMPLATES](https://www.codewithfaraz.com/article/107/15-inspiring-react-portfolio-templates-for-2023#portfolio-website-v2-0)
+
+- [3 REACT QUESTION QUESTIONS TO KNOW IN INTERVIEW](https://levelup.gitconnected.com/3-react-interview-questions-i-will-ask-in-react-interviews-db15c7fcd55d)
