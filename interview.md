@@ -21,3 +21,9 @@
 - [CRACKING THE FRONTEND INTERVIEW](https://www.freecodecamp.org/news/cracking-the-front-end-interview-9a34cd46237/)
 
 - [CRACKING THE FRONTEND DEVELOPER A COMPLETE GUIDE](https://medium.com/@waleedmousa975/cracking-the-frontend-developer-interview-a-comprehensive-roadmap-ef152fc7f719)
+
+## PROGRAMMING LESSONS
+
+- [9 THINGS I WISH I KNEW I WISH I WHEN I STARTED PROGRAMMING](https://www.freedium.cfd/https://medium.com/@ashishps/9-things-i-wish-i-knew-when-i-started-programming-52b714d43326)
+
+- [WHY SOME DEVELOPER MAKE 400 DOLLARS](https://davidgoudet.medium.com/heres-why-some-developers-make-400-000-while-most-don-t-af343c07dc26)

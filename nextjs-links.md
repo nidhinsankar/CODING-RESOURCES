@@ -8,6 +8,9 @@
 
 - [NEXTJS FOLDER STRUCTURE FOR LARGE SCALE APP](https://www.freedium.cfd/https://blog.stackademic.com/next-js-mastery-setting-up-a-large-and-scalable-next-js-project-in-2024-46f0f1873fdc)
 
+- [ARCHITECTING A FRONTEND APP WITH NEXTJS A TECHNICAL LEADERS GUIDE
+  ](https://blog.stackademic.com/architecting-a-front-end-app-with-next-js-a-technical-leaders-guide-7e0b27750a1f)
+
 ## NEXTJS + APPWRITE
 
 - [NEXTJS APPWRITE](https://livecycle.io/blogs/nextjs-appwrite/)

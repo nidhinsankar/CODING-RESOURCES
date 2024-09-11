@@ -30,3 +30,5 @@
 - [15 PORTFOLIO REACT PORTFOLIO TEMPLATES](https://www.codewithfaraz.com/article/107/15-inspiring-react-portfolio-templates-for-2023#portfolio-website-v2-0)
 
 - [3 REACT QUESTION QUESTIONS TO KNOW IN INTERVIEW](https://levelup.gitconnected.com/3-react-interview-questions-i-will-ask-in-react-interviews-db15c7fcd55d)
+
+- [11 USEFUL REACT JS HACK EVERY DEVELOPER SHOULD I KNOW](https://javascript.plainenglish.io/11-useful-react-js-hack-every-developer-should-know-b635c3af48bd)
