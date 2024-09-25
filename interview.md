@@ -27,3 +27,9 @@
 - [9 THINGS I WISH I KNEW I WISH I WHEN I STARTED PROGRAMMING](https://www.freedium.cfd/https://medium.com/@ashishps/9-things-i-wish-i-knew-when-i-started-programming-52b714d43326)
 
 - [WHY SOME DEVELOPER MAKE 400 DOLLARS](https://davidgoudet.medium.com/heres-why-some-developers-make-400-000-while-most-don-t-af343c07dc26)
+
+## JAVASCRIPT INTERVIEW RESOURCES
+
+- [75 MOST FREQUENTLY ASKED FRONTEND JAVASCRIPT INTERVIEW QUESTIONS](https://medium.com/@shivambh28/75-most-frequently-asked-frontend-javascript-interview-questions-dc3b63fbf73e)
+
+- [FRONTEND INTERVIEW PREPARATION](https://www.learnwithjason.dev/blog/frontend-interview-prep/)
