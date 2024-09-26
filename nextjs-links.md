@@ -8,11 +8,20 @@
 
 - [NEXTJS FOLDER STRUCTURE FOR LARGE SCALE APP](https://www.freedium.cfd/https://blog.stackademic.com/next-js-mastery-setting-up-a-large-and-scalable-next-js-project-in-2024-46f0f1873fdc)
 
-- [ARCHITECTING A FRONTEND APP WITH NEXTJS A TECHNICAL LEADERS GUIDE
-  ](https://blog.stackademic.com/architecting-a-front-end-app-with-next-js-a-technical-leaders-guide-7e0b27750a1f)
+- [ARCHITECTING A FRONTEND APP WITH NEXTJS A TECHNICAL LEADERS GUIDE](https://blog.stackademic.com/architecting-a-front-end-app-with-next-js-a-technical-leaders-guide-7e0b27750a1f)
 
 ## NEXTJS + APPWRITE
 
 - [NEXTJS APPWRITE](https://livecycle.io/blogs/nextjs-appwrite/)
 - [FULL STACK APPLICATION WITH BUN APPWRITE AND NEXTJS](https://dev.to/thevinitgupta/full-stack-application-with-bun-appwrite-and-nextjs-3ee1)
 - [BUILD A SELF CARE APPLICATION USING NEXTJS AND APPWRITE](https://gatwirival.hashnode.dev/build-a-self-care-application-using-nextjs-and-appwrite)
+
+## OPEN SOURCE NEXTJS
+
+- [6 REPOS MASTER NEXTJS](https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c)
+
+## ROADMAP
+
+- [SSR CSR SSG AND USE CLIENT IN NEXTJS](https://medium.com/@rajanraj8979/ssr-csr-ssg-and-use-client-in-next-js-c9a3e12035cb)
+
+- [EFFECTIVE ROADMAP OF NEXTJS](https://medium.com/@rajanraj8979/effective-roadmap-of-nextjs-5ac93c9a7164)

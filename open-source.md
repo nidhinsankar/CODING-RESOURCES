@@ -24,3 +24,7 @@
 - [A GOOD ROADMAP TO BECOME A FRONTEND DEVELOPER](https://preparefrontend.com/blog/blog/a-good-roadmap-to-become-a-frontend-developer)
 
 - [HOW TO STUDY FOR FRONTEND ENGINEERING INTERVIEWS 2023 ALL IN ONE GUIDE](https://medium.com/@shivambh28/how-to-study-for-frontend-engineering-interviews-2023-all-in-one-guide-6493934f5826)
+
+- [20 ICON LIBRARIES YOU NEED](https://medium.com/stackademic/20-icon-libraries-you-need-d72be20de011)
+
+- [10 EXTREMELY USEFUL FRONTEND LIBRARIES](https://medium.com/stackademic/10-extremely-useful-front-end-libraries-you-might-have-been-looking-for-ce652e244505)

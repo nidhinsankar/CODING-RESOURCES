@@ -32,3 +32,7 @@
 - [3 REACT QUESTION QUESTIONS TO KNOW IN INTERVIEW](https://levelup.gitconnected.com/3-react-interview-questions-i-will-ask-in-react-interviews-db15c7fcd55d)
 
 - [11 USEFUL REACT JS HACK EVERY DEVELOPER SHOULD I KNOW](https://javascript.plainenglish.io/11-useful-react-js-hack-every-developer-should-know-b635c3af48bd)
+
+## ROADMAP
+
+- [ROADMAP FOR REACTJS FOR BEGINNERS TO ADVANCE](https://medium.com/@rajanraj8979/roadmap-for-react-js-for-beginners-to-advance-522ce3588838)

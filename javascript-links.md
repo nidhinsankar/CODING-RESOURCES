@@ -9,8 +9,6 @@
 
 - [DEBOUNCE AND THROTTLE IN REAL LIFE](https://medium.com/walkme-engineering/debounce-and-throttle-in-real-life-scenarios-1cc7e2e38c68)
 
-### JAVASCRIPT DSA BLOGS
-
 ### JAVASCRIPT OOPS CONCEPTS
 
 - [OBJECT ORIENTED JAVASCRIPT FOR BEGINEERS](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/)
@@ -45,3 +43,7 @@
 - [FRONTEND CODE GENERATOR](https://theresanaiforthat.com/s/frontend+code+generator/)
 
 - [I HAVE NEVER USED A LIBRARY FRAMEWORK OR AN API I DONT KNOW WHAT TO DO](https://javascript.plainenglish.io/i-have-never-used-a-library-framework-or-an-api-i-dont-know-what-to-do-8f483a5806d1)
+
+## ROADMAP
+
+- [JAVASCRIPT ROADMAP FOR BEGINNERS TO ADVANCED](https://medium.com/@rajanraj8979/javascript-roadmap-for-beginners-to-advanced-9963c19f1bb4)

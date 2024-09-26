@@ -15,6 +15,10 @@
 
 - [AWESOME LEETCODE RESOURCES](https://github.com/ashishps1/awesome-leetcode-resources)
 
+- [TOP DSA SHEETS TO CRACK ANY CODING INTERVIEWS](https://medium.com/@rajanraj8979/top-dsa-sheets-to-crack-any-coding-interview-f19d0ca8fc1e)
+
+- [DSA ROADMAP](https://connect2grp.medium.com/data-structures-and-algorithms-roadmap-d45d6eca4892)
+
 ## SYSTEM DESIGN
 
 - [STEP BY STEP GUIDE TO SYSTEM DESIGN INTERVIEWS](https://medium.com/algomaster-io/a-step-by-step-guide-to-system-design-interviews-a11fdc522d0d)
