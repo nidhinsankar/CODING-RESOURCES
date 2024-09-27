@@ -31,6 +31,7 @@
 - [6 PROJECTS TO MAKE YOU A BETTER WEB DEVELOPER ](https://medium.com/@hii_mohit/6-projects-to-make-you-a-better-web-developer-e90ee421c895)
 - [HOW TO BECOME A PRO WEB DEVELOPER](https://pinjarirehan.medium.com/how-to-become-a-pro-web-developer-3118a4a8968b)
 - [JAVASCRIPT INTERVIEW QUESTIONS](https://medium.com/@narmadamurali02/javascript-interview-questions-56f3df489c8f)
+- [10 FRONTEND PROJECTS TO TAKE YOUR CODING SKILLS TO THE NEXT LEVEL](https://javascript.plainenglish.io/10-frontend-projects-to-take-your-coding-skills-to-the-next-level-2b3dafbea388)
 
 ## JAVASCRIPT BLOGS WEBSITES
 
@@ -44,6 +45,16 @@
 
 - [I HAVE NEVER USED A LIBRARY FRAMEWORK OR AN API I DONT KNOW WHAT TO DO](https://javascript.plainenglish.io/i-have-never-used-a-library-framework-or-an-api-i-dont-know-what-to-do-8f483a5806d1)
 
-## ROADMAP
+## INTERVIEW PREPARATION & ROADMAP
 
 - [JAVASCRIPT ROADMAP FOR BEGINNERS TO ADVANCED](https://medium.com/@rajanraj8979/javascript-roadmap-for-beginners-to-advanced-9963c19f1bb4)
+
+- [JAVASCRIPT INTERVIEW PREPARATION ROADMAP](https://javascript.plainenglish.io/javascript-interview-preparation-a-comprehensive-study-guide-332a3f8494e4)
+
+- [HOW TO GET YOUR FIRST JOB AS A FRONTEND DEVELOPER](https://medium.com/@r.sipchenko/how-to-get-your-first-job-as-a-frontend-developer-389b588bf185#:~:text=The%20first%20step%20in%20landing,your%20skills%20as%20a%20developer.)
+
+- [HOW TO BECOME A FRONTEND DEVELOPER IN 2024](https://medium.com/@careervira.community/how-to-become-a-front-end-developer-in-2024-learn-guide-8be1c3ba5f17)
+
+- [HOW TO START YOUR JOURNEY TO BECOME A FRONTEND WEB DEVELOPER](https://medium.com/@abhinavcv007/how-to-start-your-journey-to-become-a-front-end-web-developer-955b68bd50cd)
+
+- [HOW TO ACE UI ENGINEER INTERVIEW](https://medium.com/javascript-in-plain-english/how-to-ace-a-ui-engineer-interview-1cfbdcf2ec83)
