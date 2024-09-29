@@ -33,6 +33,8 @@
 
 - [11 USEFUL REACT JS HACK EVERY DEVELOPER SHOULD I KNOW](https://javascript.plainenglish.io/11-useful-react-js-hack-every-developer-should-know-b635c3af48bd)
 
+- [WRITE A REACT COMPONENT LIKE A PRO](https://medium.com/javascript-in-plain-english/write-a-react-component-like-a-pro-4852109ffee5)
+
 ## ROADMAP
 
 - [ROADMAP FOR REACTJS FOR BEGINNERS TO ADVANCE](https://medium.com/@rajanraj8979/roadmap-for-react-js-for-beginners-to-advance-522ce3588838)

@@ -22,6 +22,10 @@
 
 - [CRACKING THE FRONTEND DEVELOPER A COMPLETE GUIDE](https://medium.com/@waleedmousa975/cracking-the-frontend-developer-interview-a-comprehensive-roadmap-ef152fc7f719)
 
+- [ATLASSIAN INTERVIEW EXPERIENCE FRONTEND](https://medium.com/@singht216/atlassian-interview-experience-frontend-software-engineer-8f69f3c5c8ea)
+
+- [FRONTEND INTERIVIEW EXPERIENCE](https://frontendpro.hashnode.dev/frontend-interview-experience-at-atlassian)
+
 ## PROGRAMMING LESSONS
 
 - [9 THINGS I WISH I KNEW I WISH I WHEN I STARTED PROGRAMMING](https://www.freedium.cfd/https://medium.com/@ashishps/9-things-i-wish-i-knew-when-i-started-programming-52b714d43326)
@@ -33,3 +37,11 @@
 - [75 MOST FREQUENTLY ASKED FRONTEND JAVASCRIPT INTERVIEW QUESTIONS](https://medium.com/@shivambh28/75-most-frequently-asked-frontend-javascript-interview-questions-dc3b63fbf73e)
 
 - [FRONTEND INTERVIEW PREPARATION](https://www.learnwithjason.dev/blog/frontend-interview-prep/)
+
+- [TODAY I INTERVIEWED FOR LEAD FRONTEND ROLE](https://medium.com/@iorilan/today-i-interviewed-for-a-lead-front-end-role-d4845e5ddd2e)
+
+## JOB BOAREDS
+
+- [7 BEST REMOTE JOB BOARDS](https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0)
+
+- [REMOTE JOB BOARDS](https://webcurate.co/c/remote-job)

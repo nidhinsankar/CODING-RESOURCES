@@ -19,6 +19,8 @@
 
 - [DSA ROADMAP](https://connect2grp.medium.com/data-structures-and-algorithms-roadmap-d45d6eca4892)
 
+- [INTRODUCTION TO ALGORITHMS WITH JAVASCRIPT EXAMPLES](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)
+
 ## SYSTEM DESIGN
 
 - [STEP BY STEP GUIDE TO SYSTEM DESIGN INTERVIEWS](https://medium.com/algomaster-io/a-step-by-step-guide-to-system-design-interviews-a11fdc522d0d)
