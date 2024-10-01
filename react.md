@@ -42,6 +42,10 @@
 
 - [WRITE A REACT COMPONENT LIKE A PRO](https://medium.com/javascript-in-plain-english/write-a-react-component-like-a-pro-4852109ffee5)
 
+## INTERVIEW QUESTION
+
+- [TOP 100 REACT INTERVIEW QUESTIONS](https://medium.com/@kirantechblog/top-100-react-interview-questions-for-2024-313a0b26087a)
+
 ## ROADMAP
 
 - [ROADMAP FOR REACTJS FOR BEGINNERS TO ADVANCE](https://medium.com/@rajanraj8979/roadmap-for-react-js-for-beginners-to-advance-522ce3588838)
