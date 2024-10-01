@@ -1,5 +1,12 @@
 # INTERVIEW RELATED BLOGS
 
+- [SYSTEM DESIGN](#system-design)
+- [JAVASCRIPT INTERVIEW RESOURCES](#javascript-interview-resources)
+- [JOB BOARDS](#job-boareds)
+- [PROGRAMMING LESSONS](#programming-lessons)
+- [ROADMAP](#roadmap)
+- [THINGS TO KNOW AS A WEB DEVELOPER](#things-to-know-as-a-web-developer)
+
 ## SYSTEM DESIGN
 
 - [HOW TO DESIGN A HOTEL BOOKING SYSTEM](https://javascript.plainenglish.io/how-to-design-a-hotel-booking-system-56ef18b6adfc)

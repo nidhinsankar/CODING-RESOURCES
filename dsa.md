@@ -19,6 +19,8 @@
 
 - [DSA ROADMAP](https://connect2grp.medium.com/data-structures-and-algorithms-roadmap-d45d6eca4892)
 
+- [WHY 500 LEETCODE PROBLEMS CHANGED MY LIFE](https://freedium.cfd/https://medium.com/code-like-a-girl/why-500-leetcode-problems-changed-my-life-3b4d5b366508)
+
 - [INTRODUCTION TO ALGORITHMS WITH JAVASCRIPT EXAMPLES](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)
 
 ## SYSTEM DESIGN

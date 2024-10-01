@@ -1,5 +1,8 @@
 # OPEN SOURCE AND LEARNING GUIDE
 
+- [LEARNING GUIDE BLOGS](#learning-guide-blogs)
+- [OPEN SOURCE BLOGS](#open-source-blogs)
+
 ## OPEN SOURCE BLOGS
 
 - [9 OPEN SOURCE NEXTJS PROJECTS OPEN FOR CONTRIBUTION](https://dev.to/devkiran/9-open-source-nextjs-projects-open-for-contributions-272c)

@@ -4,6 +4,11 @@
 - [JAVASCRIPT DSA BLOGS](#javascript-dsa-blogs)
 - [JAVASCRIPT OOPS CONCEPTS](#javascript-oops-concepts)
 - [JAVASCRIPT PROTOTYPES](#javascript-prototypes)
+- [CODING CHALLENGES](#coding-challenges)
+- [JAVASCRIPT BLOGS WEBSITES](#javascript-blogs-websites)
+- [JAVASCRIPT PROJECT IDEAS](#javascript-project-ideas)
+- [INTERVIEW PREPARATION & ROADMAP](#interview-preparation--roadmap)
+- [JAVASCRIPT PRACTICE WEBSITE](#javascript-practice-website)
 
 ### JAVASCRIPT FUNCTIONALITY BLOGS
 
@@ -58,3 +63,7 @@
 - [HOW TO START YOUR JOURNEY TO BECOME A FRONTEND WEB DEVELOPER](https://medium.com/@abhinavcv007/how-to-start-your-journey-to-become-a-front-end-web-developer-955b68bd50cd)
 
 - [HOW TO ACE UI ENGINEER INTERVIEW](https://medium.com/javascript-in-plain-english/how-to-ace-a-ui-engineer-interview-1cfbdcf2ec83)
+
+## JAVASCRIPT PRACTICE WEBSITE
+
+- [DEVTOOLS RESOURCES](https://devtools.tech/resources/all)
