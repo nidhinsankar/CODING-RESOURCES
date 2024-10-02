@@ -37,3 +37,7 @@
 ## DESIGN AN APP
 
 - [BUILD AN ONLINE STORE IN ONE HOUR WITH NEXTJS](https://javascript.plainenglish.io/build-an-online-store-in-one-hour-with-next-js-bf4e52f2c594)
+
+## APP IDEAS
+
+- [VSCODE THEMED PORTFOLIO](https://vscode-portfolio.vercel.app/articles)

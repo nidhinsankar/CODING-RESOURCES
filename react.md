@@ -27,6 +27,7 @@
 - [SIX WAYS TO GET BETTER AT REACT](https://frontend-digest.com/six-ways-to-get-better-at-react-ccb321a7c35)
 
 - [REACT PROJECT IDEAD](https://remarkablecoder.com/react-project-ideas/)
+- [WRITE A REACT COMPONENT LIKE A PRO](https://medium.com/javascript-in-plain-english/write-a-react-component-like-a-pro-4852109ffee5)
 
 ## GITHUB REPOS
 
@@ -39,8 +40,6 @@
 - [3 REACT QUESTION QUESTIONS TO KNOW IN INTERVIEW](https://levelup.gitconnected.com/3-react-interview-questions-i-will-ask-in-react-interviews-db15c7fcd55d)
 
 - [11 USEFUL REACT JS HACK EVERY DEVELOPER SHOULD I KNOW](https://javascript.plainenglish.io/11-useful-react-js-hack-every-developer-should-know-b635c3af48bd)
-
-- [WRITE A REACT COMPONENT LIKE A PRO](https://medium.com/javascript-in-plain-english/write-a-react-component-like-a-pro-4852109ffee5)
 
 ## INTERVIEW QUESTION
 

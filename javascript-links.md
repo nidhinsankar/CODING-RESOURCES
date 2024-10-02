@@ -9,10 +9,12 @@
 - [JAVASCRIPT PROJECT IDEAS](#javascript-project-ideas)
 - [INTERVIEW PREPARATION & ROADMAP](#interview-preparation--roadmap)
 - [JAVASCRIPT PRACTICE WEBSITE](#javascript-practice-website)
+- [JAVASCRIPT BOOKS](#javascript-books)
 
 ### JAVASCRIPT FUNCTIONALITY BLOGS
 
 - [DEBOUNCE AND THROTTLE IN REAL LIFE](https://medium.com/walkme-engineering/debounce-and-throttle-in-real-life-scenarios-1cc7e2e38c68)
+- [DON'T MAKE THESE MISTAKES AS A JAVASCRIPT DEVELOPER OR YOUR APPLICATION PERFORMANCE WILL SUFFER](https://javascript.plainenglish.io/dont-make-these-mistakes-as-a-javascript-developer-or-your-application-performance-will-suffer-1f0293ded126)
 
 ### JAVASCRIPT OOPS CONCEPTS
 
@@ -48,6 +50,8 @@
 
 - [FRONTEND CODE GENERATOR](https://theresanaiforthat.com/s/frontend+code+generator/)
 
+- [SNIPCART BLOGS](https://snipcart.com/blog)
+
 - [I HAVE NEVER USED A LIBRARY FRAMEWORK OR AN API I DONT KNOW WHAT TO DO](https://javascript.plainenglish.io/i-have-never-used-a-library-framework-or-an-api-i-dont-know-what-to-do-8f483a5806d1)
 
 ## INTERVIEW PREPARATION & ROADMAP
@@ -67,3 +71,9 @@
 ## JAVASCRIPT PRACTICE WEBSITE
 
 - [DEVTOOLS RESOURCES](https://devtools.tech/resources/all)
+
+## JAVASCRIPT BOOKS
+
+- [JSBOOKS REVOLUNET](https://jsbooks.revolunet.com/)
+- [JAVASCRIPT CHALLENGES BOOK](https://tcorral.github.io/javascript-challenges-book/index.html)
+- [PRACTITY](https://practity.com/582-2/)

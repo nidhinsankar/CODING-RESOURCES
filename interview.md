@@ -39,6 +39,10 @@
 
 - [WHY SOME DEVELOPER MAKE 400 DOLLARS](https://davidgoudet.medium.com/heres-why-some-developers-make-400-000-while-most-don-t-af343c07dc26)
 
+## INTERVIEW EXPERIENCES
+
+- [FRESHWORKS FRONTEND ENGINEER EXPERINCE](https://medium.com/@techrecruiter/freshworks-frontend-engineer-interview-experience-dfbd463f24ed)
+
 ## JAVASCRIPT INTERVIEW RESOURCES
 
 - [75 MOST FREQUENTLY ASKED FRONTEND JAVASCRIPT INTERVIEW QUESTIONS](https://medium.com/@shivambh28/75-most-frequently-asked-frontend-javascript-interview-questions-dc3b63fbf73e)
