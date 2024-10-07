@@ -8,7 +8,7 @@
 
 - [HOW TO GET REMOTE JOB IN 2023](https://medium.com/@avinashvagh/how-to-get-remote-job-in-2023-8b62349bc76b)
 
-- [8 THINGS ONLY BAD PROGRAMMERS SAy are you guility](https://javascript.plainenglish.io/8-things-only-bad-programmers-say-are-you-guilty-4a3ab292c497)
+- [YOUTUBE VIDEO ON FREELANCING](https://www.youtube.com/watch?v=7xp3kwtrgHA)
 
 ## JOB LINKS
 
