@@ -10,7 +10,7 @@
 - [BEST LARGE OPEN SOURCE NEXTJS PROJECTS TO STUDY](https://www.greatfrontend.com/blog/best-large-open-source-nextjs-projects-to-study)
 - [18 GITHUB REPOSITORIES TO BOOST YOUR CAREER AS A DEVELOPER](https://blog.stackademic.com/18-github-repositories-to-boost-your-career-as-a-developer-82af93fffffa)
 
-- [](https://opensource.guide/how-to-contribute/)
+- [HOW TO CONTRIBUTE TO OPENSOURCE](https://opensource.guide/how-to-contribute/)
 
 ## LEARNING GUIDE BLOGS
 

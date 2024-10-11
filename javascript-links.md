@@ -15,6 +15,9 @@
 
 - [DEBOUNCE AND THROTTLE IN REAL LIFE](https://medium.com/walkme-engineering/debounce-and-throttle-in-real-life-scenarios-1cc7e2e38c68)
 - [DON'T MAKE THESE MISTAKES AS A JAVASCRIPT DEVELOPER OR YOUR APPLICATION PERFORMANCE WILL SUFFER](https://javascript.plainenglish.io/dont-make-these-mistakes-as-a-javascript-developer-or-your-application-performance-will-suffer-1f0293ded126)
+- [the ultimate guide to javascript objects](https://medium.com/@nile.bits/the-ultimate-guide-to-javascript-objects-0f2c5d55e697)
+
+- [BEGINNERS GUIDE TO CREATING DYNAMIC FORMS WITH JAVASCRIPT](https://medium.com/@AlexanderObregon/beginners-guide-to-creating-dynamic-forms-with-javascript-10aef6a8843d)
 
 ### JAVASCRIPT OOPS CONCEPTS
 

@@ -48,3 +48,7 @@
 ## ROADMAP
 
 - [ROADMAP FOR REACTJS FOR BEGINNERS TO ADVANCE](https://medium.com/@rajanraj8979/roadmap-for-react-js-for-beginners-to-advance-522ce3588838)
+
+## MACHINE CODING ROUND
+
+- [REACTJS MACHINE CODING 25 QUESTIONS](https://medium.com/@sanchit0496/react-js-machine-coding-25-must-do-questions-with-solutions-344f47dee15d)
