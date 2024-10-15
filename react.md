@@ -52,3 +52,7 @@
 ## MACHINE CODING ROUND
 
 - [REACTJS MACHINE CODING 25 QUESTIONS](https://medium.com/@sanchit0496/react-js-machine-coding-25-must-do-questions-with-solutions-344f47dee15d)
+
+## IMPORTANT CONCEPTS IN HOOKS
+
+- [HOW TO USE HIGHER ORDER COMPONENTS IN REACT](https://medium.com/devsphere/how-to-use-higher-order-components-in-react-9e469c93f918)
