@@ -23,6 +23,10 @@
 
 - [INTRODUCTION TO ALGORITHMS WITH JAVASCRIPT EXAMPLES](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)
 
+- [HOW I MASTER RECURSION AND BACKTRACKING BLOG](https://medium.com/sde-interviews/how-i-master-recursion-and-backtracking-48-coding-challenges-9def4c95e363)
+
+- [IMPROVING MY PROGRAMMING SKILLS WITH NEETCODE](https://code.likeagirl.io/improving-my-programming-skills-with-neetcode-150-c5c2a9655551)
+
 ## SYSTEM DESIGN
 
 - [STEP BY STEP GUIDE TO SYSTEM DESIGN INTERVIEWS](https://medium.com/algomaster-io/a-step-by-step-guide-to-system-design-interviews-a11fdc522d0d)

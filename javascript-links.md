@@ -10,12 +10,15 @@
 - [INTERVIEW PREPARATION & ROADMAP](#interview-preparation--roadmap)
 - [JAVASCRIPT PRACTICE WEBSITE](#javascript-practice-website)
 - [JAVASCRIPT BOOKS](#javascript-books)
+- [FRONTEND PRACTICE WEBSITES](#frontend-practice-websites)
 
 ### JAVASCRIPT FUNCTIONALITY BLOGS
 
 - [DEBOUNCE AND THROTTLE IN REAL LIFE](https://medium.com/walkme-engineering/debounce-and-throttle-in-real-life-scenarios-1cc7e2e38c68)
 - [DON'T MAKE THESE MISTAKES AS A JAVASCRIPT DEVELOPER OR YOUR APPLICATION PERFORMANCE WILL SUFFER](https://javascript.plainenglish.io/dont-make-these-mistakes-as-a-javascript-developer-or-your-application-performance-will-suffer-1f0293ded126)
 - [the ultimate guide to javascript objects](https://medium.com/@nile.bits/the-ultimate-guide-to-javascript-objects-0f2c5d55e697)
+
+- [JAVASCRIPT VISUALIZED THE JAVASCRIPT ENGINE](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf?ref=dailydev)
 
 - [BEGINNERS GUIDE TO CREATING DYNAMIC FORMS WITH JAVASCRIPT](https://medium.com/@AlexanderObregon/beginners-guide-to-creating-dynamic-forms-with-javascript-10aef6a8843d)
 
@@ -42,6 +45,11 @@
 - [HOW TO BECOME A PRO WEB DEVELOPER](https://pinjarirehan.medium.com/how-to-become-a-pro-web-developer-3118a4a8968b)
 - [JAVASCRIPT INTERVIEW QUESTIONS](https://medium.com/@narmadamurali02/javascript-interview-questions-56f3df489c8f)
 - [10 FRONTEND PROJECTS TO TAKE YOUR CODING SKILLS TO THE NEXT LEVEL](https://javascript.plainenglish.io/10-frontend-projects-to-take-your-coding-skills-to-the-next-level-2b3dafbea388)
+
+## FRONTEND PRACTICE WEBSITES
+
+- [FRONTEND PRACTICE WEBSITE](https://www.frontendpractice.com/projects)
+- [BIG DEV SOON](https://bigdevsoon.me/)
 
 ## JAVASCRIPT BLOGS WEBSITES
 
