@@ -23,3 +23,11 @@
 ## FRONTEND DESIGN PATTERN
 
 - [TOP DESIGN PATTERN FOR FRONTEND](https://dev.to/superviz/top-design-patterns-for-frontend-1bk5?ref=dailydev)
+
+## FRONTEND CSS DESIGN
+
+- [TOP 6 CSS CHEATSHEETS](https://blog.stackademic.com/the-top-6-css-cheatsheets-that-will-save-you-hours-2e1d29ed5c24)
+
+- [REFACTORING UI WEBSITE](https://www.refactoringui.com/)
+
+- [FROM ATOMIC DESIGN TO RELATIVISTIC INTERFACE](https://levelup.gitconnected.com/from-atomic-design-to-relativistic-interfaces-0751b0b46832)

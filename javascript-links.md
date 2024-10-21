@@ -11,6 +11,7 @@
 - [JAVASCRIPT PRACTICE WEBSITE](#javascript-practice-website)
 - [JAVASCRIPT BOOKS](#javascript-books)
 - [FRONTEND PRACTICE WEBSITES](#frontend-practice-websites)
+- [JAVASCRIPT IMPORTANT REPOS](#important-github-repos)
 
 ### JAVASCRIPT FUNCTIONALITY BLOGS
 
@@ -88,3 +89,7 @@
 - [JSBOOKS REVOLUNET](https://jsbooks.revolunet.com/)
 - [JAVASCRIPT CHALLENGES BOOK](https://tcorral.github.io/javascript-challenges-book/index.html)
 - [PRACTITY](https://practity.com/582-2/)
+
+## IMPORTANT GITHUB REPOS
+
+- [33 JS CONCEPTS](https://github.com/leonardomso/33-js-concepts)

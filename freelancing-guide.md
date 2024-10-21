@@ -10,8 +10,14 @@
 
 - [YOUTUBE VIDEO ON FREELANCING](https://www.youtube.com/watch?v=7xp3kwtrgHA)
 
+- [THE HARD LESSONS I LEARNED AS A FREELANCE WEB DEVELOPER](https://freedium.cfd/https://medium.com/@andisyafrianda/the-hard-lessons-i-learned-as-a-freelance-web-developer-af51f02e8682)
+
 ## JOB LINKS
 
 - [CUTSHORT.IO](https://cutshort.io/)
 - [THE ONLY 4 INTERVIEW YOU NEED FOR A FRONTEND DEVELOPER JOB](https://www.pesto.tech/resources/the-only-4-interview-resources-you-need-for-a-frontend-developer-job)
 - [TOP 20 WEBSITES TO FIND REMOTE JOBS](https://medium.com/@avinashvagh/top-20-websites-to-find-remote-jobs-in-2024-676f7dfd93a3)
+
+## PROJECT IDEAS BLOGS
+
+- [BLOG DUOMLY](https://www.blog.duomly.com/)

@@ -31,3 +31,11 @@
 ## LIFE LESSONS
 
 - [WHY THE 21 DAY HABIT RULE IS A LIE THE REAL TIME IT TAKES TO BREAK BAD HABIT](https://medium.com/word-garden/why-the-21-day-habit-rule-is-a-lie-the-real-time-it-takes-to-break-bad-habits-272f9c70dddb)
+
+- [HOW TO BUILF YOUR ONLINE PRESENCE AS A DEVELOPER](https://dev.to/koladev/how-to-build-your-online-presence-as-a-developer-5ig?ref=dailydev)
+
+- [](https://blog.stackademic.com/step-by-step-to-write-your-projects-technical-document-d57528e8bb2d)
+
+- [](https://brett-j-fox.medium.com/how-do-you-create-a-successful-mvp-37b5c138c796)
+
+- [](https://medium.com/@smarth55/when-a-frontend-developer-is-not-a-ui-developer-c5232cfbd469)
