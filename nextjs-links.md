@@ -41,3 +41,13 @@
 ## APP IDEAS
 
 - [VSCODE THEMED PORTFOLIO](https://vscode-portfolio.vercel.app/articles)
+
+- [19 NEXTJS PROJECT IDEAS FOR YOU GET STARTED](https://medium.com/@codebymedu/19-next-js-project-ideas-for-you-to-get-hired-97e0890a9700)
+
+- [HOW TO BECOME A FRONTEND ENGINEER WITHOUT A DEGREE FROM MY EXPERIENCE](https://medium.com/@codebymedu/how-to-become-a-frontend-engineer-without-a-degree-from-my-experience-ea28d46c0a21)
+
+- [7 BOOKS THAT MAKE YOU A GREAT TECH LEAD](https://medium.com/@codebymedu/7-books-that-make-you-a-great-tech-lead-6e40ff0529eb)
+
+## NEXTJS BLOGS
+
+- [19 NEXTJS PROJECT IDEAS FOR PORTFOLIO](https://www.codebymedu.com/blog/19-next-js-project-ideas-for-portfolio)

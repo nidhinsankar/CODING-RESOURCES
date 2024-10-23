@@ -68,6 +68,8 @@
 
 ## INTERVIEW PREPARATION & ROADMAP
 
+- [3 COMMON FRONTEND INTERVIEW JAVASCRIPT QUESTIONS](https://xiuerold.medium.com/3-common-front-end-interview-javascript-questions-aea417acd233)
+
 - [JAVASCRIPT ROADMAP FOR BEGINNERS TO ADVANCED](https://medium.com/@rajanraj8979/javascript-roadmap-for-beginners-to-advanced-9963c19f1bb4)
 
 - [JAVASCRIPT INTERVIEW PREPARATION ROADMAP](https://javascript.plainenglish.io/javascript-interview-preparation-a-comprehensive-study-guide-332a3f8494e4)

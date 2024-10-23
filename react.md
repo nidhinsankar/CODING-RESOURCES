@@ -53,6 +53,8 @@
 
 - [REACTJS MACHINE CODING 25 QUESTIONS](https://medium.com/@sanchit0496/react-js-machine-coding-25-must-do-questions-with-solutions-344f47dee15d)
 
+- [REACT INTERVIEW QUESTIONS BASIC INTERMEDIATE](https://blog.stackademic.com/react-interview-questions-basic-intermediate-advanced-5c71e56f9ef9)
+
 ## IMPORTANT CONCEPTS IN HOOKS
 
 - [HOW TO USE HIGHER ORDER COMPONENTS IN REACT](https://medium.com/devsphere/how-to-use-higher-order-components-in-react-9e469c93f918)

@@ -31,3 +31,5 @@
 - [REFACTORING UI WEBSITE](https://www.refactoringui.com/)
 
 - [FROM ATOMIC DESIGN TO RELATIVISTIC INTERFACE](https://levelup.gitconnected.com/from-atomic-design-to-relativistic-interfaces-0751b0b46832)
+
+- [10 WEBSITES EVERY WEB DEVELOPER SHOULD KNOW](https://dev.to/adarsh-gupta/10-websites-every-web-developer-should-at-least-look-5fi2)

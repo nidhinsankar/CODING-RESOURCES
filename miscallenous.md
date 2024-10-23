@@ -34,8 +34,10 @@
 
 - [HOW TO BUILF YOUR ONLINE PRESENCE AS A DEVELOPER](https://dev.to/koladev/how-to-build-your-online-presence-as-a-developer-5ig?ref=dailydev)
 
-- [](https://blog.stackademic.com/step-by-step-to-write-your-projects-technical-document-d57528e8bb2d)
+- [STEP BY STEP TO WRIYE YOUR PROJECTS TECHINCAL](https://blog.stackademic.com/step-by-step-to-write-your-projects-technical-document-d57528e8bb2d)
 
-- [](https://brett-j-fox.medium.com/how-do-you-create-a-successful-mvp-37b5c138c796)
+- [HOW DO YOU CREATE A SUCCESSFUL MVP](https://brett-j-fox.medium.com/how-do-you-create-a-successful-mvp-37b5c138c796)
 
-- [](https://medium.com/@smarth55/when-a-frontend-developer-is-not-a-ui-developer-c5232cfbd469)
+- [WHEN A FRONTEND DEVELOPER IS NOT A UI DEVELOPER](https://medium.com/@smarth55/when-a-frontend-developer-is-not-a-ui-developer-c5232cfbd469)
+
+- [DON'T SEARCH FOR A JOB LET THE JOB FIND YOU](https://medium.com/@pmclub/dont-search-for-a-job-let-the-job-find-you-7fbf24b90457)
