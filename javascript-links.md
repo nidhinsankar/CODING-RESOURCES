@@ -58,8 +58,6 @@
 
 - [I HATE READING](https://ihatereading.in/)
 
-- [THE ULTIMATE GUIDE TO GENERATING KILLER SAAS IDEAS](https://blog.stackademic.com/the-ultimate-guide-to-generating-killer-saas-ideas-in-2024-e02a4290bcc0?gi=aba7e1b2d5ec)
-
 - [FRONTEND CODE GENERATOR](https://theresanaiforthat.com/s/frontend+code+generator/)
 
 - [SNIPCART BLOGS](https://snipcart.com/blog)
