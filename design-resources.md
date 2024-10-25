@@ -10,6 +10,8 @@
 
 - [HOW TO DESIGN A HOTEL BOOKING SYSTEM](https://javascript.plainenglish.io/how-to-design-a-hotel-booking-system-56ef18b6adfc)
 
+- [ ](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
+
 ## WORKING ON DREAMS
 
 - [BALANCING DREAMS AND ACTIONA A GUIDE TO MAKING THINGS](https://saurabhnativeblog.medium.com/life30-part1-balancing-dreams-and-actions-a-guide-to-making-things-happen-5f9b5fca3364)
@@ -19,6 +21,8 @@
 ## SYSTEM DESIGN
 
 - [BOOKS I READ TO PREPARE FOR MY GOOGLE AND MICROSOFT](https://medium.com/javarevisited/books-i-read-to-prepare-for-my-google-and-microsoft-system-design-rounds-0615d0976e49)
+
+- [CRACKING FRONTEND SYSTEM DESIGN INTERVIEWS A COMPREHENSIVE GUIDE](https://blog.stackademic.com/cracking-front-end-system-design-interviews-a-comprehensive-guide-07d9e5c06b57)
 
 ## FRONTEND DESIGN PATTERN
 

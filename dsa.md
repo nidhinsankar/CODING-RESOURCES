@@ -27,6 +27,8 @@
 
 - [IMPROVING MY PROGRAMMING SKILLS WITH NEETCODE](https://code.likeagirl.io/improving-my-programming-skills-with-neetcode-150-c5c2a9655551)
 
+- [WHAT I LEARNED FROM SOLVING 1200 LEETCODE PROBLEMS](https://medium.com/ai-in-plain-english/what-i-learned-from-solving-1200-leetcode-problems-8c3615ac0b71)
+
 ## SYSTEM DESIGN
 
 - [STEP BY STEP GUIDE TO SYSTEM DESIGN INTERVIEWS](https://medium.com/algomaster-io/a-step-by-step-guide-to-system-design-interviews-a11fdc522d0d)

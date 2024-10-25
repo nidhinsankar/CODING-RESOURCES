@@ -83,6 +83,7 @@
 ## JAVASCRIPT PRACTICE WEBSITE
 
 - [DEVTOOLS RESOURCES](https://devtools.tech/resources/all)
+- [JAVASCRIPT CODING INTERVIEWS QUESTIONS AND ANSWERS](https://www.keka.com/javascript-coding-interview-questions-and-answers)
 
 ## JAVASCRIPT BOOKS
 
