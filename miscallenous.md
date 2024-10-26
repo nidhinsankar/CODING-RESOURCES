@@ -41,3 +41,7 @@
 - [WHEN A FRONTEND DEVELOPER IS NOT A UI DEVELOPER](https://medium.com/@smarth55/when-a-frontend-developer-is-not-a-ui-developer-c5232cfbd469)
 
 - [DON'T SEARCH FOR A JOB LET THE JOB FIND YOU](https://medium.com/@pmclub/dont-search-for-a-job-let-the-job-find-you-7fbf24b90457)
+
+## PROJECT IDEAS OR SAAS IDEAS
+
+- [18 INCREDIBLE SAAS STARTUP IDEAS TO START IN 2024](https://medium.com/@inverita/18-incredible-saas-startup-ideas-to-start-in-2024-7906ecb94673)

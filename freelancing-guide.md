@@ -12,6 +12,8 @@
 
 - [THE HARD LESSONS I LEARNED AS A FREELANCE WEB DEVELOPER](https://freedium.cfd/https://medium.com/@andisyafrianda/the-hard-lessons-i-learned-as-a-freelance-web-developer-af51f02e8682)
 
+- [BEGINNERS GUIDE TO FREELANCING GUIDE](https://dev.to/llxd/beginners-guide-to-freelancing-3m5i?ref=dailydev)
+
 ## JOB LINKS
 
 - [CUTSHORT.IO](https://cutshort.io/)

@@ -33,3 +33,7 @@
 - [20 ICON LIBRARIES YOU NEED](https://medium.com/stackademic/20-icon-libraries-you-need-d72be20de011)
 
 - [10 EXTREMELY USEFUL FRONTEND LIBRARIES](https://medium.com/stackademic/10-extremely-useful-front-end-libraries-you-might-have-been-looking-for-ce652e244505)
+
+- [](https://medium.com/write-a-catalyst/how-i-earned-1000-in-one-week-with-remotetask-while-working-a-9-to-5-job-3ab7b218c2b9)
+
+- [](https://medium.com/write-a-catalyst/stay-focused-i-wish-i-knew-these-5-things-before-b13937fda255)
