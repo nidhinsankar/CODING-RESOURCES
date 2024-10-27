@@ -10,7 +10,8 @@
 
 - [HOW TO DESIGN A HOTEL BOOKING SYSTEM](https://javascript.plainenglish.io/how-to-design-a-hotel-booking-system-56ef18b6adfc)
 
-- [ ](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
+- [10 RULES OF DASHBOARD DESIGN](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
+- [HOW TO NAME COLORS IN DESIGN SYSTEM](https://medium.com/user-experience-design-1/how-to-name-colors-in-design-systems-976657e12b57)
 
 ## WORKING ON DREAMS
 

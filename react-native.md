@@ -1,6 +1,8 @@
 # REACT NATIVE BLOGS AND RESOURCES
 
 - [REACT NATIVE RESOURCE WEBSITE](#react-native-resource-webiste)
+- [REACT NATIVE PROJECTS](#react-native-projects)
+- [FLUTTER RELATED PROJECTS](#flutter-related-blogs)
 
 ## REACT NATIVE RESOURCE WEBISTE
 
@@ -9,3 +11,7 @@
 ## REACT NATIVE PROJECTS
 
 - [BUILD A REACT NATIVE CHAT APPA COMPREHENSIVE GUIDE](https://medium.com/@mkilincaslan/build-a-react-native-chat-app-a-comprehensive-guide-2852e5434e54)
+
+## FLUTTER RELATED BLOGS
+
+- [ROADMAP TO SENIOR FLUTTER DEVELOPER](https://medium.com/@umkithya/roadmap-to-senior-flutter-developer-42f17c649d81)
