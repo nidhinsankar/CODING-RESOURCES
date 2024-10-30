@@ -42,6 +42,8 @@
 
 - [DON'T SEARCH FOR A JOB LET THE JOB FIND YOU](https://medium.com/@pmclub/dont-search-for-a-job-let-the-job-find-you-7fbf24b90457)
 
+- [I'VE WORKED IN IT FOR OVER 10 YEARS HERE ARE 5 THINGS I WISH I KNEW WHEN I STARTED](https://dev.to/vorniches/ive-worked-in-it-for-over-10-years-here-are-5-things-i-wish-i-knew-when-i-started-43pe?context=digest)
+
 ## PROJECT IDEAS OR SAAS IDEAS
 
 - [18 INCREDIBLE SAAS STARTUP IDEAS TO START IN 2024](https://medium.com/@inverita/18-incredible-saas-startup-ideas-to-start-in-2024-7906ecb94673)

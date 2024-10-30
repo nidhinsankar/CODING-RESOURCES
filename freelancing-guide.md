@@ -25,3 +25,11 @@
 - [BLOG DUOMLY](https://www.blog.duomly.com/)
 
 - [THE ULTIMATE GUIDE TO GENERATING KILLER SAAS IDEAS](https://blog.stackademic.com/the-ultimate-guide-to-generating-killer-saas-ideas-in-2024-e02a4290bcc0?gi=aba7e1b2d5ec)
+
+## FREELANCE BLOGS
+
+- [JOB SEARCH TIPS](https://www.nobledesktop.com/careers/front-end-developer/job-search-tips)
+
+- [INDIE HACKERS](https://www.indiehackers.com/)
+
+- [TAKUYA MATSUYAMA A JAPANESE DEVELOPER WHO EARNS OVER 10K PER MONTH](https://medium.com/@yumaueno/takuya-matsuyama-a-japanese-developer-who-earns-over-10k-per-month-from-product-e3a1fb08e6f4)

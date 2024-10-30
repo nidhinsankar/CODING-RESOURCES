@@ -37,11 +37,19 @@
 
 - [15 PORTFOLIO REACT PORTFOLIO TEMPLATES](https://www.codewithfaraz.com/article/107/15-inspiring-react-portfolio-templates-for-2023#portfolio-website-v2-0)
 
+- [DRIBBLE PERSONAL WEBSITE-1](https://dribbble.com/shots/19765440-Personal-Portfolio)
+
+- [DRIBBLE PERSONAL WEBSITE-2](https://dribbble.com/shots/22110108-Subtle-Folio-Portfolio-Framer-Template)
+
+- [5 PROJECTS YOU CAN DO IN 2025](https://freedium.cfd/https://medium.com/@irenemmassyy/5-projects-you-can-do-in-2025-to-master-front-end-development-374ae7cd2877)
+
+- [BEST PROJECTS THAT YOU CAN BUILD IN ONE DAY](https://gyanendraknojiya.medium.com/best-projects-that-you-can-build-in-one-day-a55743fd242e)
+
+## INTERVIEW QUESTION
+
 - [3 REACT QUESTION QUESTIONS TO KNOW IN INTERVIEW](https://levelup.gitconnected.com/3-react-interview-questions-i-will-ask-in-react-interviews-db15c7fcd55d)
 
 - [11 USEFUL REACT JS HACK EVERY DEVELOPER SHOULD I KNOW](https://javascript.plainenglish.io/11-useful-react-js-hack-every-developer-should-know-b635c3af48bd)
-
-## INTERVIEW QUESTION
 
 - [TOP 100 REACT INTERVIEW QUESTIONS](https://medium.com/@kirantechblog/top-100-react-interview-questions-for-2024-313a0b26087a)
 
@@ -55,6 +63,8 @@
 
 - [REACT INTERVIEW QUESTIONS BASIC INTERMEDIATE](https://blog.stackademic.com/react-interview-questions-basic-intermediate-advanced-5c71e56f9ef9)
 
-## IMPORTANT CONCEPTS IN HOOKS
+## IMPORTANT CONCEPTS IN REACTJS
 
 - [HOW TO USE HIGHER ORDER COMPONENTS IN REACT](https://medium.com/devsphere/how-to-use-higher-order-components-in-react-9e469c93f918)
+
+- [SHADCN-UI NEXTJS HAS BEEN UNLEASHED UPON THE DEVELOPER ](https://freedium.cfd/https://faun.pub/shadcdn-part-1-next-js-has-been-unleashed-upon-the-developer-400f624edb6d)
