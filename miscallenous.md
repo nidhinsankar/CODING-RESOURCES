@@ -30,9 +30,17 @@
 
 - [WHY THE 21 DAY HABIT RULE IS A LIE THE REAL TIME IT TAKES TO BREAK BAD HABIT](https://medium.com/word-garden/why-the-21-day-habit-rule-is-a-lie-the-real-time-it-takes-to-break-bad-habits-272f9c70dddb)
 
+- [STOP REWATCHING TUTORIALS STUDY LIKE THIS](https://medium.com/@axel.em.casas/stop-rewatching-tutorials-study-like-this-8ba4b6bf3598)
+
+- [STOP PAYING FOR COURSES DO THIS INSTEAD](https://medium.com/@axel.em.casas/stop-paying-for-courses-do-this-instead-3bfd1b4b387f)
+
+- [DON'T SEARCH FOR A JOB LET THE JOB FIND YOU](https://medium.com/@pmclub/dont-search-for-a-job-let-the-job-find-you-7fbf24b90457)
+
 - [HOW TO BUILF YOUR ONLINE PRESENCE AS A DEVELOPER](https://dev.to/koladev/how-to-build-your-online-presence-as-a-developer-5ig?ref=dailydev)
 
-- [STEP BY STEP TO WRIYE YOUR PROJECTS TECHINCAL](https://blog.stackademic.com/step-by-step-to-write-your-projects-technical-document-d57528e8bb2d)
+- [STEP BY STEP TO WRITE YOUR PROJECTS TECHINCAL](https://blog.stackademic.com/step-by-step-to-write-your-projects-technical-document-d57528e8bb2d)
+
+- [HOW I STUDY CONSISTENTLY WITH A FULL TIME JOB](https://medium.com/write-a-catalyst/how-i-study-consistently-with-a-full-time-job-fc3362793def)
 
 - [HOW DO YOU CREATE A SUCCESSFUL MVP](https://brett-j-fox.medium.com/how-do-you-create-a-successful-mvp-37b5c138c796)
 
@@ -41,6 +49,8 @@
 - [DON'T SEARCH FOR A JOB LET THE JOB FIND YOU](https://medium.com/@pmclub/dont-search-for-a-job-let-the-job-find-you-7fbf24b90457)
 
 - [I'VE WORKED IN IT FOR OVER 10 YEARS HERE ARE 5 THINGS I WISH I KNEW WHEN I STARTED](https://dev.to/vorniches/ive-worked-in-it-for-over-10-years-here-are-5-things-i-wish-i-knew-when-i-started-43pe?context=digest)
+
+- [THE BEST 6 STUDY STRATEGIES BASED ON SCIENCE](https://medium.com/cogni-tiva/the-best-6-study-strategies-based-on-science-e523202b3c10)
 
 ## PROJECT IDEAS OR SAAS IDEAS
 
