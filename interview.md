@@ -33,6 +33,8 @@
 
 - [FRONTEND INTERIVIEW EXPERIENCE](https://frontendpro.hashnode.dev/frontend-interview-experience-at-atlassian)
 
+- [FRONTEND STIDY GUIDE](https://frontendpro.hashnode.dev/frontend-study-guide?source=more_articles_bottom_blogs)
+
 ## PROGRAMMING LESSONS
 
 - [9 THINGS I WISH I KNEW I WISH I WHEN I STARTED PROGRAMMING](https://www.freedium.cfd/https://medium.com/@ashishps/9-things-i-wish-i-knew-when-i-started-programming-52b714d43326)
