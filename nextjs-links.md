@@ -51,3 +51,7 @@
 ## NEXTJS BLOGS
 
 - [19 NEXTJS PROJECT IDEAS FOR PORTFOLIO](https://www.codebymedu.com/blog/19-next-js-project-ideas-for-portfolio)
+
+## PROJECT IDEAS
+
+- [AWESOME CODING PROJECTS](https://github.com/ashishps1/awesome-coding-projects)

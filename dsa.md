@@ -16,6 +16,8 @@
 
 - [AWESOME LEETCODE RESOURCES](https://github.com/ashishps1/awesome-leetcode-resources)
 
+- [1 YEAR OF CONSISTENT LEETCODING](https://dev.to/davinderpalrehal/1-year-of-consistent-leetcoding-26d0?ref=dailydev)
+
 - [TOP DSA SHEETS TO CRACK ANY CODING INTERVIEWS](https://medium.com/@rajanraj8979/top-dsa-sheets-to-crack-any-coding-interview-f19d0ca8fc1e)
 
 - [DSA ROADMAP](https://connect2grp.medium.com/data-structures-and-algorithms-roadmap-d45d6eca4892)
