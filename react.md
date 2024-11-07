@@ -29,6 +29,8 @@
 - [REACT PROJECT IDEAD](https://remarkablecoder.com/react-project-ideas/)
 - [WRITE A REACT COMPONENT LIKE A PRO](https://medium.com/javascript-in-plain-english/write-a-react-component-like-a-pro-4852109ffee5)
 
+- [REMOTE FRONTEND ARCHITECTURE](https://levelup.gitconnected.com/remote-micro-frontend-8c84585ebf69)
+
 ## GITHUB REPOS
 
 - [BEST DEVELOPER RESOURCES IN GITHUB](https://udaya28.hashnode.dev/best-developer-learning-resources-on-github#cl73kiywb03rg2qnv1o8vbv1c)

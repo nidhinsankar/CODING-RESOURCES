@@ -23,6 +23,8 @@
 
 - [BEGINNERS GUIDE TO CREATING DYNAMIC FORMS WITH JAVASCRIPT](https://medium.com/@AlexanderObregon/beginners-guide-to-creating-dynamic-forms-with-javascript-10aef6a8843d)
 
+- [HOW TO OPTIMIZE CSS FOR PERFORMANCE](https://javascript.plainenglish.io/how-to-optimize-css-for-performance-tips-and-tools-da09a37b22d3?source=email-ba4f04d5717b-1730930972156-digest.reader-4b3a1ed4f11c-da09a37b22d3----6-98------------------fec01bb8_3bf7_4cec_b601_0e14ebdb86a7-1)
+
 ### JAVASCRIPT OOPS CONCEPTS
 
 - [OBJECT ORIENTED JAVASCRIPT FOR BEGINEERS](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/)
