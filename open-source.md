@@ -37,3 +37,7 @@
 - [HOW I EARNED 1000 IN ONE WEEK WITH REMOTETASK WHILE WORKING](https://medium.com/write-a-catalyst/how-i-earned-1000-in-one-week-with-remotetask-while-working-a-9-to-5-job-3ab7b218c2b9)
 
 - [STAY FOCUSED I WISH I KNEW THESE 5 THINGS BEFORE](https://medium.com/write-a-catalyst/stay-focused-i-wish-i-knew-these-5-things-before-b13937fda255)
+
+## OPEN SOURCE (API)
+
+- [OPEN SOURCE API FOR YOUR NEXT PROJECT](https://medium.com/javascript-decoded-in-plain-english/open-source-apis-for-your-next-project-use-lifetime-for-free-a748a11639ae)

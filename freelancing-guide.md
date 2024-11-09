@@ -33,3 +33,7 @@
 - [INDIE HACKERS](https://www.indiehackers.com/)
 
 - [TAKUYA MATSUYAMA A JAPANESE DEVELOPER WHO EARNS OVER 10K PER MONTH](https://medium.com/@yumaueno/takuya-matsuyama-a-japanese-developer-who-earns-over-10k-per-month-from-product-e3a1fb08e6f4)
+
+## SAAS IDEAS
+
+- [TOP SAAS STARTUP IDEAS](https://medium.com/@gyanendraknojiya/top-saas-startup-ideas-your-next-big-success-story-6869dc2db0a0)
