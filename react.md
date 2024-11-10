@@ -70,3 +70,9 @@
 - [HOW TO USE HIGHER ORDER COMPONENTS IN REACT](https://medium.com/devsphere/how-to-use-higher-order-components-in-react-9e469c93f918)
 
 - [SHADCN-UI NEXTJS HAS BEEN UNLEASHED UPON THE DEVELOPER ](https://freedium.cfd/https://faun.pub/shadcdn-part-1-next-js-has-been-unleashed-upon-the-developer-400f624edb6d)
+
+## IMPORTANT BLOGS ABOUT LIBRARIES
+
+- [12 SUPER USEFUL LIBRARIES FOR FRONTEND DEVELOPES](https://javascript.plainenglish.io/12-super-useful-libraries-for-frontend-developers-f754ca31d906)
+
+- [MY TWO SYSTEMS APPROACH FOR GENERATING IDEAS](https://medium.com/write-a-catalyst/my-two-systems-approach-for-generating-article-ideas-1777b2c4299c)

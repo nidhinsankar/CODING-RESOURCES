@@ -37,3 +37,7 @@
 ## SAAS IDEAS
 
 - [TOP SAAS STARTUP IDEAS](https://medium.com/@gyanendraknojiya/top-saas-startup-ideas-your-next-big-success-story-6869dc2db0a0)
+
+- [JOURNEY 100M FROM MEDIUM AND HOW MUCH I EARNED S FAR](https://medium.com/write-a-catalyst/journey-100-m-from-medium-and-how-much-have-i-earned-so-far-30a419de6eaf)
+
+- [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
