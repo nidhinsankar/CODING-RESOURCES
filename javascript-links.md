@@ -98,3 +98,7 @@
 ## IMPORTANT GITHUB REPOS
 
 - [33 JS CONCEPTS](https://github.com/leonardomso/33-js-concepts)
+
+## JAVASCRIPT PACKAGES
+
+- [MASTERING PACKAGES JSON THE HEART OF EVERY NODE-JS PROJECT](https://javascript.plainenglish.io/mastering-package-json-the-heart-of-every-node-js-project-b665a9cb82ab)
