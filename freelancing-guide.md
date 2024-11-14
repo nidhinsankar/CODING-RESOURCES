@@ -41,3 +41,5 @@
 - [JOURNEY 100M FROM MEDIUM AND HOW MUCH I EARNED S FAR](https://medium.com/write-a-catalyst/journey-100-m-from-medium-and-how-much-have-i-earned-so-far-30a419de6eaf)
 
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
+
+- [9 TIPS I LEARNED FROM AN AI MICRO-SAAS WHO SOLD IT FOR SIX FIGURES](https://medium.com/databutton/9-tips-i-learned-from-an-ai-micro-saas-founder-who-sold-it-for-six-figures-f951b85c7198)

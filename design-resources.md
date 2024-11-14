@@ -42,3 +42,5 @@
 ## TOOLS
 
 - [7 USEFUL TOOLS FOR WEB DEVELOPER](https://javascript.plainenglish.io/7-useful-tools-for-web-developers-c8cb904999e4)
+
+- [TOP 6 FREE TOOLS FOR WEB DEVELOPERS](https://long.sweet.pub/top-6-free-tools-for-web-developers-9fba56b4de89)
