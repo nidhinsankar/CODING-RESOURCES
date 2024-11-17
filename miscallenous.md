@@ -34,6 +34,8 @@
 
 - [STOP PAYING FOR COURSES DO THIS INSTEAD](https://medium.com/@axel.em.casas/stop-paying-for-courses-do-this-instead-3bfd1b4b387f)
 
+- [CREATINF A PERSONAL BRAND HOW TO SELL YOURSELF AS A DEVELOPER](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev)
+
 - [DON'T SEARCH FOR A JOB LET THE JOB FIND YOU](https://medium.com/@pmclub/dont-search-for-a-job-let-the-job-find-you-7fbf24b90457)
 
 - [HOW TO BUILF YOUR ONLINE PRESENCE AS A DEVELOPER](https://dev.to/koladev/how-to-build-your-online-presence-as-a-developer-5ig?ref=dailydev)
