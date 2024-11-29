@@ -17,3 +17,7 @@
 ## FLUTTER RELATED BLOGS
 
 - [ROADMAP TO SENIOR FLUTTER DEVELOPER](https://medium.com/@umkithya/roadmap-to-senior-flutter-developer-42f17c649d81)
+
+## MOBILE DEVELOPMENT
+
+- [TOP MOBILE APP DEVELOPMENT TRENDS](https://javascript.plainenglish.io/top-mobile-app-development-trends-for-2025-6ba9222d6551)

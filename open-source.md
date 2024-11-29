@@ -41,3 +41,9 @@
 ## OPEN SOURCE (API)
 
 - [OPEN SOURCE API FOR YOUR NEXT PROJECT](https://medium.com/javascript-decoded-in-plain-english/open-source-apis-for-your-next-project-use-lifetime-for-free-a748a11639ae)
+
+## AI APPS
+
+- [GOODBYE CHATGPT HERE ARE 8 NEW FREE AI TOOLS THAT WILL BLOW YOUR MINDS](https://medium.com/swlh/goodbye-chatgpt-here-are-8-new-free-ai-tools-that-will-blow-your-mind-11623c297107)
+
+- [](https://medium.com/@hii_mohit/7-underrated-open-source-projects-that-will-surprise-you-e640426ab81b)

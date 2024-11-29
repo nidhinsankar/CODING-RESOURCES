@@ -26,23 +26,23 @@
 
 - [THIS IS WHY I MAKE TIME FOR SELF LEARNING APART FROM MY 9-5 JOB AS A DEVELOPER](https://medium.com/javarevisited/this-is-why-i-make-time-for-self-learning-apart-from-my-9-5-job-as-a-developer-and-you-should-too-c819325ff326)
 
-## LIFE LESSONS
-
-- [WHY THE 21 DAY HABIT RULE IS A LIE THE REAL TIME IT TAKES TO BREAK BAD HABIT](https://medium.com/word-garden/why-the-21-day-habit-rule-is-a-lie-the-real-time-it-takes-to-break-bad-habits-272f9c70dddb)
-
 - [STOP REWATCHING TUTORIALS STUDY LIKE THIS](https://medium.com/@axel.em.casas/stop-rewatching-tutorials-study-like-this-8ba4b6bf3598)
 
 - [STOP PAYING FOR COURSES DO THIS INSTEAD](https://medium.com/@axel.em.casas/stop-paying-for-courses-do-this-instead-3bfd1b4b387f)
 
 - [CREATINF A PERSONAL BRAND HOW TO SELL YOURSELF AS A DEVELOPER](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev)
 
+## LIFE LESSONS
+
+- [WHY THE 21 DAY HABIT RULE IS A LIE THE REAL TIME IT TAKES TO BREAK BAD HABIT](https://medium.com/word-garden/why-the-21-day-habit-rule-is-a-lie-the-real-time-it-takes-to-break-bad-habits-272f9c70dddb)
+
+- [HOW I STUDY CONSISTENTLY WITH A FULL TIME JOB](https://medium.com/write-a-catalyst/how-i-study-consistently-with-a-full-time-job-fc3362793def)
+
 - [DON'T SEARCH FOR A JOB LET THE JOB FIND YOU](https://medium.com/@pmclub/dont-search-for-a-job-let-the-job-find-you-7fbf24b90457)
 
 - [HOW TO BUILF YOUR ONLINE PRESENCE AS A DEVELOPER](https://dev.to/koladev/how-to-build-your-online-presence-as-a-developer-5ig?ref=dailydev)
 
 - [STEP BY STEP TO WRITE YOUR PROJECTS TECHINCAL](https://blog.stackademic.com/step-by-step-to-write-your-projects-technical-document-d57528e8bb2d)
-
-- [HOW I STUDY CONSISTENTLY WITH A FULL TIME JOB](https://medium.com/write-a-catalyst/how-i-study-consistently-with-a-full-time-job-fc3362793def)
 
 - [HOW DO YOU CREATE A SUCCESSFUL MVP](https://brett-j-fox.medium.com/how-do-you-create-a-successful-mvp-37b5c138c796)
 
@@ -57,3 +57,13 @@
 ## PROJECT IDEAS OR SAAS IDEAS
 
 - [18 INCREDIBLE SAAS STARTUP IDEAS TO START IN 2024](https://medium.com/@inverita/18-incredible-saas-startup-ideas-to-start-in-2024-7906ecb94673)
+
+- [HOW I STUDY CONSISTENTLY WITH A FULL TIME JOB](https://medium.com/write-a-catalyst/how-i-study-consistently-with-a-full-time-job-fc3362793def)
+
+- [NEW SAAS IDEAS THAT YOU CAN TRY BUILDING](https://towardsaws.com/new-saas-ideas-that-you-can-try-building-bb4ece730238)
+
+- [MY SAAS JOURNEY I REACHED MY 100K ARR GOAL NEW ONE 500K ARR](https://blog.codingwinner.com/my-saas-journey-i-reached-my-100k-arr-goal-new-one-500k-arr-by-2026-754ac6c8c134)
+
+- [BEST WORST ONLINE BUSINESSES TO START IN 2025](https://mitaboost.medium.com/best-worst-online-businesses-to-start-in-2025-9eb5db150620)
+
+- [HOW TO PROMOTE YOUR STARTUP WITH 0 FOLLOWERS](https://medium.com/@hii_mohit/how-to-promote-your-startup-with-0-followers-43234acbd3c1)

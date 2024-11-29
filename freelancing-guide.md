@@ -43,3 +43,8 @@
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
 
 - [9 TIPS I LEARNED FROM AN AI MICRO-SAAS WHO SOLD IT FOR SIX FIGURES](https://medium.com/databutton/9-tips-i-learned-from-an-ai-micro-saas-founder-who-sold-it-for-six-figures-f951b85c7198)
+
+- [OPEN SOURCE PROJECTS YOU NEED TO SEE](https://medium.com/sourcescribes/open-source-projects-you-need-to-see-4948465645ce)
+
+- [SAAS IDEA THAT YOU CAN TRY](https://medium.com/@shivanshudev/saas-idea-that-you-can-try-4a07276eaaf4)
+- [HOW I TRICKED MY BRAIN TO BE ADDICTED TO CODING](https://medium.com/algomaster-io/how-i-tricked-my-brain-to-be-addicted-to-coding-af95dba4f695)
