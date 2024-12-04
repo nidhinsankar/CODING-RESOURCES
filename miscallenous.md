@@ -67,3 +67,17 @@
 - [BEST WORST ONLINE BUSINESSES TO START IN 2025](https://mitaboost.medium.com/best-worst-online-businesses-to-start-in-2025-9eb5db150620)
 
 - [HOW TO PROMOTE YOUR STARTUP WITH 0 FOLLOWERS](https://medium.com/@hii_mohit/how-to-promote-your-startup-with-0-followers-43234acbd3c1)
+
+- [3 STARTUP IDEAS PEOPLE ARE ACTUALLY SEARCHING FOR](https://medium.com/@katt_72306/3-startup-ideas-people-are-actually-searching-for-ba1144a066fe)
+
+- [8 AMAZING DIRECTORIES FOR SAAS BUILDERS AND INDIE HACKERS](https://blog.stackademic.com/8-amazing-web-directories-for-saas-builders-and-indie-hackers-2ababcbeb83a)
+
+- [HOW TO BECOME A MILLIONAIRCE IN YOUR 20S](https://thedankoe.medium.com/how-to-become-a-millionaire-in-your-20s-70ce15857db8)
+
+- [5 UNIQUE PROJECTS IDEAS TO MAKE YOUR SOFTWARE ENGINNERING RESUME](https://halimshams.medium.com/5-unique-project-ideas-to-make-your-software-engineering-resume-unstoppable-9622a08f78ca)
+
+- [WEBSITES TO FIND INSPIRATIONAL STARTUP SAAS IDEAS](https://medium.com/cub3d/websites-to-find-inspirational-saas-ideas-785aabbe4452)
+
+- [TECHNOLGIES CHOICES YOU MAKE FOR YOUR SAAS](https://medium.com/@shivanshudev/technologies-choices-you-make-for-your-saas-be955c328d7d)
+
+- [YES HERES THE BEST WAY TO BUILD A SAAS OR MICRO-SAAS](https://medium.com/itnext/yes-heres-the-best-way-to-build-a-saas-or-micro-saas-a59c75f07def)

@@ -6,6 +6,7 @@
 - [GITHUB REPOS](#github-repos)
 - [PORTFOLIO IDEAS](#portfolio-ideas)
 - [ROADMAP](#roadmap)
+- [FRONTEND RELATED BLOGS](#frontend-related-blogs)
 
 ## INTERNAL WORKING BLOGS
 
@@ -76,3 +77,7 @@
 - [12 SUPER USEFUL LIBRARIES FOR FRONTEND DEVELOPES](https://javascript.plainenglish.io/12-super-useful-libraries-for-frontend-developers-f754ca31d906)
 
 - [MY TWO SYSTEMS APPROACH FOR GENERATING IDEAS](https://medium.com/write-a-catalyst/my-two-systems-approach-for-generating-article-ideas-1777b2c4299c)
+
+## FRONTEND RELATED BLOGS
+
+- [WHEN A FRONTEND DEVELOPER IS NOT A UI DEVELOPER](https://medium.com/@smarth55/when-a-frontend-developer-is-not-a-ui-developer-c5232cfbd469)

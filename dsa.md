@@ -35,3 +35,7 @@
 ## SYSTEM DESIGN
 
 - [STEP BY STEP GUIDE TO SYSTEM DESIGN INTERVIEWS](https://medium.com/algomaster-io/a-step-by-step-guide-to-system-design-interviews-a11fdc522d0d)
+
+## DSA LEARNINGS BLOG
+
+- [](https://freedium.cfd/https://ai.plainenglish.io/what-i-learned-from-solving-1200-leetcode-problems-8c3615ac0b71)

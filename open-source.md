@@ -46,4 +46,4 @@
 
 - [GOODBYE CHATGPT HERE ARE 8 NEW FREE AI TOOLS THAT WILL BLOW YOUR MINDS](https://medium.com/swlh/goodbye-chatgpt-here-are-8-new-free-ai-tools-that-will-blow-your-mind-11623c297107)
 
-- [](https://medium.com/@hii_mohit/7-underrated-open-source-projects-that-will-surprise-you-e640426ab81b)
+- [7 UNDERRATED OPENSOURCE PROJECTS THAT WILL SURPIRSE YOU](https://medium.com/@hii_mohit/7-underrated-open-source-projects-that-will-surprise-you-e640426ab81b)

@@ -10,6 +10,8 @@
 
 - [YOUTUBE VIDEO ON FREELANCING](https://www.youtube.com/watch?v=7xp3kwtrgHA)
 
+- [](https://freedium.cfd/https://medium.com/@godigitalnj/money-mindset-meets-digital-products-how-to-sell-and-manifest-your-way-to-wealth-b788f55ecf44)
+
 - [THE HARD LESSONS I LEARNED AS A FREELANCE WEB DEVELOPER](https://freedium.cfd/https://medium.com/@andisyafrianda/the-hard-lessons-i-learned-as-a-freelance-web-developer-af51f02e8682)
 
 - [BEGINNERS GUIDE TO FREELANCING GUIDE](https://dev.to/llxd/beginners-guide-to-freelancing-3m5i?ref=dailydev)
