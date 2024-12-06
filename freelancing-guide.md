@@ -10,7 +10,9 @@
 
 - [YOUTUBE VIDEO ON FREELANCING](https://www.youtube.com/watch?v=7xp3kwtrgHA)
 
-- [](https://freedium.cfd/https://medium.com/@godigitalnj/money-mindset-meets-digital-products-how-to-sell-and-manifest-your-way-to-wealth-b788f55ecf44)
+- [MONEY MINDSET MEETS DIGITAL PRODUCRS HOW TO SELLF AND MANIFEST YOUT WAY TO WEALTH](https://freedium.cfd/https://medium.com/@godigitalnj/money-mindset-meets-digital-products-how-to-sell-and-manifest-your-way-to-wealth-b788f55ecf44)
+
+- [ADVICE TO MY YOUNGER SELF AND YOU AFTER 20 YEARS IN PROGRAMMING](https://medium.com/dev-publicity/advice-to-my-younger-self-and-you-after-20-years-in-programming-a3a2ccc7a942=)
 
 - [THE HARD LESSONS I LEARNED AS A FREELANCE WEB DEVELOPER](https://freedium.cfd/https://medium.com/@andisyafrianda/the-hard-lessons-i-learned-as-a-freelance-web-developer-af51f02e8682)
 

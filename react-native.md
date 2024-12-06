@@ -14,6 +14,10 @@
 
 - [BUILD A REACT NATIVE CHAT APPA COMPREHENSIVE GUIDE](https://medium.com/@mkilincaslan/build-a-react-native-chat-app-a-comprehensive-guide-2852e5434e54)
 
+## REACT NATIVE RELATED BLOGS
+
+- [REACT NATIVE NEW ARCHITECTURE](https://freedium.cfd/https://medium.com/@devnexPro/react-native-new-architecture-3f10c764b0f6)
+
 ## FLUTTER RELATED BLOGS
 
 - [ROADMAP TO SENIOR FLUTTER DEVELOPER](https://medium.com/@umkithya/roadmap-to-senior-flutter-developer-42f17c649d81)

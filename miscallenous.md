@@ -46,7 +46,7 @@
 
 - [HOW DO YOU CREATE A SUCCESSFUL MVP](https://brett-j-fox.medium.com/how-do-you-create-a-successful-mvp-37b5c138c796)
 
-- [WHEN A FRONTEND DEVELOPER IS NOT A UI DEVELOPER](https://medium.com/@smarth55/when-a-frontend-developer-is-not-a-ui-developer-c5232cfbd469)
+- [I QUIT LEARNING PYTHON AND BECOME A BETTER DEVELOPER](https://blog.stackademic.com/i-quit-learning-python-and-became-a-better-developer-027e10496f30)
 
 - [DON'T SEARCH FOR A JOB LET THE JOB FIND YOU](https://medium.com/@pmclub/dont-search-for-a-job-let-the-job-find-you-7fbf24b90457)
 
