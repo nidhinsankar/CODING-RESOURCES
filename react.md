@@ -19,20 +19,23 @@
 
 -[CODE SPLITTING WHAT WHEN AND WHY](https://dev.to/thekashey/code-splitting-what-when-and-why-59op)
 
+- [REMOTE FRONTEND ARCHITECTURE](https://levelup.gitconnected.com/remote-micro-frontend-8c84585ebf69)
+
+- [A DEEP DIVE INTO MICRO FRONTEND ARCHITECTURE](https://medium.com/@isuruariyarathna2k00/a-deep-dive-into-micro-frontend-architecture-with-react-js-264ca6edca6b)
+
 ## PROJECT IDEAS
 
 - [REACT RESOURCES](https://reactresources.com/)
 
-- [A DEEP DIVE INTO MICRO FRONTEND ARCHITECTURE](https://medium.com/@isuruariyarathna2k00/a-deep-dive-into-micro-frontend-architecture-with-react-js-264ca6edca6b)
-
 - [SIX WAYS TO GET BETTER AT REACT](https://frontend-digest.com/six-ways-to-get-better-at-react-ccb321a7c35)
 
-- [REACT PROJECT IDEAD](https://remarkablecoder.com/react-project-ideas/)
-- [WRITE A REACT COMPONENT LIKE A PRO](https://medium.com/javascript-in-plain-english/write-a-react-component-like-a-pro-4852109ffee5)
+-[7 REACTJS PROJECTS TO BECOME A BETTER DEVELOPER](https://medium.com/@hii_mohit/7-reactjs-projects-to-become-a-better-developer-98ca544bdf84)
 
-- [REMOTE FRONTEND ARCHITECTURE](https://levelup.gitconnected.com/remote-micro-frontend-8c84585ebf69)
+- [REACT PROJECT IDEAS](https://remarkablecoder.com/react-project-ideas/)
 
 ## GITHUB REPOS
+
+- [WRITE A REACT COMPONENT LIKE A PRO](https://medium.com/javascript-in-plain-english/write-a-react-component-like-a-pro-4852109ffee5)
 
 - [BEST DEVELOPER RESOURCES IN GITHUB](https://udaya28.hashnode.dev/best-developer-learning-resources-on-github#cl73kiywb03rg2qnv1o8vbv1c)
 
@@ -56,6 +59,12 @@
 
 - [TOP 100 REACT INTERVIEW QUESTIONS](https://medium.com/@kirantechblog/top-100-react-interview-questions-for-2024-313a0b26087a)
 
+- [75 REACT INTERVIEW QUESTIONS WITH CODE EXAMPLES FOR 2024](https://medium.com/@rahul.a1739/75-react-interview-questions-with-code-examples-for-2024-ee34d804f50f)
+
+- [ADVANCED REACT PATTERNS AND BEST PRACTICES](https://medium.com/@rashmipatil24/advanced-react-patterns-and-best-practices-74cd09a7c2d9)
+
+- [TOP 25 REACT TIPS EVERY DEVELOPER](https://levelup.gitconnected.com/top-25-react-tips-every-developer-should-know-part-2-70f127f85291)
+
 ## ROADMAP
 
 - [ROADMAP FOR REACTJS FOR BEGINNERS TO ADVANCE](https://medium.com/@rajanraj8979/roadmap-for-react-js-for-beginners-to-advance-522ce3588838)
@@ -71,6 +80,7 @@
 - [HOW TO USE HIGHER ORDER COMPONENTS IN REACT](https://medium.com/devsphere/how-to-use-higher-order-components-in-react-9e469c93f918)
 
 - [SHADCN-UI NEXTJS HAS BEEN UNLEASHED UPON THE DEVELOPER ](https://freedium.cfd/https://faun.pub/shadcdn-part-1-next-js-has-been-unleashed-upon-the-developer-400f624edb6d)
+- [](https://javascript.plainenglish.io/the-future-of-frontend-development-key-skills-to-hire-for-in-2025-d62801ab4e8c)
 
 ## IMPORTANT BLOGS ABOUT LIBRARIES
 
