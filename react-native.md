@@ -12,7 +12,7 @@
 
 ## REACT NATIVE PROJECTS
 
-- [BUILD A REACT NATIVE CHAT APPA COMPREHENSIVE GUIDE](https://medium.com/@mkilincaslan/build-a-react-native-chat-app-a-comprehensive-guide-2852e5434e54)
+- [BUILD A REACT NATIVE CHAT APP COMPREHENSIVE GUIDE](https://medium.com/@mkilincaslan/build-a-react-native-chat-app-a-comprehensive-guide-2852e5434e54)
 
 ## REACT NATIVE RELATED BLOGS
 

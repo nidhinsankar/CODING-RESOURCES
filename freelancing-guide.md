@@ -8,6 +8,10 @@
 
 - [HOW TO GET REMOTE JOB IN 2023](https://medium.com/@avinashvagh/how-to-get-remote-job-in-2023-8b62349bc76b)
 
+- [HOW TO MAKE MONEY FROM CODING A BEGINNER FRIENDLY PRACTICAL GUIDE](https://dev.to/syakirurahman/how-to-make-money-from-coding-a-beginner-friendly-practical-guide-5532)
+
+- [11 PRACTICAL WAYS TO BRING SIDE INCOME AS A DEVELOPER](https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm?ref=dailydev)
+
 - [YOUTUBE VIDEO ON FREELANCING](https://www.youtube.com/watch?v=7xp3kwtrgHA)
 
 - [MONEY MINDSET MEETS DIGITAL PRODUCRS HOW TO SELLF AND MANIFEST YOUT WAY TO WEALTH](https://freedium.cfd/https://medium.com/@godigitalnj/money-mindset-meets-digital-products-how-to-sell-and-manifest-your-way-to-wealth-b788f55ecf44)
@@ -51,5 +55,6 @@
 - [OPEN SOURCE PROJECTS YOU NEED TO SEE](https://medium.com/sourcescribes/open-source-projects-you-need-to-see-4948465645ce)
 
 - [SAAS IDEA THAT YOU CAN TRY](https://medium.com/@shivanshudev/saas-idea-that-you-can-try-4a07276eaaf4)
-- [](https://medium.com/@hii_mohit/10-profitable-micro-saas-ideas-that-no-one-is-talking-about-afa9488728a9)
+- [10 PROFITABLE MICRO-SAAS IDEAS THAT NO ONE IS TALKING IT](https://medium.com/@hii_mohit/10-profitable-micro-saas-ideas-that-no-one-is-talking-about-afa9488728a9)
+- [MY FIRST STARTUP FAILED HERE ARE 5 LESSONS I LEARNED](https://ehandbook.com/my-first-startup-failed-here-are-5-lessons-i-learned-to-get-it-right-the-next-time-b69ed00ce605)
 - [HOW I TRICKED MY BRAIN TO BE ADDICTED TO CODING](https://medium.com/algomaster-io/how-i-tricked-my-brain-to-be-addicted-to-coding-af95dba4f695)
