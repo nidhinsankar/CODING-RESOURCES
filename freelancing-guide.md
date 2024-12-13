@@ -50,6 +50,10 @@
 
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
 
+- [A MAN WHO MAKES 40K PER MONTH](https://medium.com/@yumaueno/mr-steven-cravotta-a-man-who-makes-40k-per-month-building-mobile-apps-despite-being-a-48d3f0d9951f)
+
+- [24 BUSINESS IDEAS FOR 2024](https://kennykandola.medium.com/24-business-ideas-for-2024-dbbdb99a878e)
+
 - [9 TIPS I LEARNED FROM AN AI MICRO-SAAS WHO SOLD IT FOR SIX FIGURES](https://medium.com/databutton/9-tips-i-learned-from-an-ai-micro-saas-founder-who-sold-it-for-six-figures-f951b85c7198)
 
 - [OPEN SOURCE PROJECTS YOU NEED TO SEE](https://medium.com/sourcescribes/open-source-projects-you-need-to-see-4948465645ce)

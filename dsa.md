@@ -38,4 +38,4 @@
 
 ## DSA LEARNINGS BLOG
 
-- [](https://freedium.cfd/https://ai.plainenglish.io/what-i-learned-from-solving-1200-leetcode-problems-8c3615ac0b71)
+- [WHAT I LEARNED FROM SOLVING 1200 LEETCODE PROBLEMS](https://freedium.cfd/https://ai.plainenglish.io/what-i-learned-from-solving-1200-leetcode-problems-8c3615ac0b71)

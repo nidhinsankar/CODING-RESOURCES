@@ -80,7 +80,7 @@
 - [HOW TO USE HIGHER ORDER COMPONENTS IN REACT](https://medium.com/devsphere/how-to-use-higher-order-components-in-react-9e469c93f918)
 
 - [SHADCN-UI NEXTJS HAS BEEN UNLEASHED UPON THE DEVELOPER ](https://freedium.cfd/https://faun.pub/shadcdn-part-1-next-js-has-been-unleashed-upon-the-developer-400f624edb6d)
-- [](https://javascript.plainenglish.io/the-future-of-frontend-development-key-skills-to-hire-for-in-2025-d62801ab4e8c)
+- [THE FUTURE OF FRONTEND DEVELOPMENT KEY SKILLS TO HIRE FOR IN](https://javascript.plainenglish.io/the-future-of-frontend-development-key-skills-to-hire-for-in-2025-d62801ab4e8c)
 
 ## IMPORTANT BLOGS ABOUT LIBRARIES
 
