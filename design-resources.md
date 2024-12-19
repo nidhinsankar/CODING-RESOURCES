@@ -2,6 +2,8 @@
 
 - [50 WEBSITES FOR WEB DESIGN INSPIRATION AND IDEAS](https://dev.to/devluc/50-best-websites-for-web-design-inspiration-and-ideas-be6?context=digest)
 
+- [FRONTEND RESOURCES](https://dev.to/miguelrodriguezp99/frontend-resources-1dl4?context=digest)
+
 ## UI DESIGN SYSTEM
 
 - [PRACTICAL GUIDE TO CREATING A DESIGN SYSTEM](https://dev.to/woovi/practical-guide-to-creating-a-design-system-1b3p?ref=dailydev)
@@ -12,12 +14,6 @@
 
 - [10 RULES OF DASHBOARD DESIGN](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
 - [HOW TO NAME COLORS IN DESIGN SYSTEM](https://medium.com/user-experience-design-1/how-to-name-colors-in-design-systems-976657e12b57)
-
-## WORKING ON DREAMS
-
-- [BALANCING DREAMS AND ACTIONA A GUIDE TO MAKING THINGS](https://saurabhnativeblog.medium.com/life30-part1-balancing-dreams-and-actions-a-guide-to-making-things-happen-5f9b5fca3364)
-
-- [8 THINGS ONLY BAD PROGRAMMERS SAY ARE YOU GUILITY](https://javascript.plainenglish.io/8-things-only-bad-programmers-say-are-you-guilty-4a3ab292c497)
 
 ## SYSTEM DESIGN
 

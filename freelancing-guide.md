@@ -28,6 +28,12 @@
 - [THE ONLY 4 INTERVIEW YOU NEED FOR A FRONTEND DEVELOPER JOB](https://www.pesto.tech/resources/the-only-4-interview-resources-you-need-for-a-frontend-developer-job)
 - [TOP 20 WEBSITES TO FIND REMOTE JOBS](https://medium.com/@avinashvagh/top-20-websites-to-find-remote-jobs-in-2024-676f7dfd93a3)
 
+## WORKING ON DREAMS
+
+- [BALANCING DREAMS AND ACTIONA A GUIDE TO MAKING THINGS](https://saurabhnativeblog.medium.com/life30-part1-balancing-dreams-and-actions-a-guide-to-making-things-happen-5f9b5fca3364)
+
+- [8 THINGS ONLY BAD PROGRAMMERS SAY ARE YOU GUILITY](https://javascript.plainenglish.io/8-things-only-bad-programmers-say-are-you-guilty-4a3ab292c497)
+
 ## PROJECT IDEAS BLOGS
 
 - [BLOG DUOMLY](https://www.blog.duomly.com/)
@@ -41,6 +47,10 @@
 - [INDIE HACKERS](https://www.indiehackers.com/)
 
 - [TAKUYA MATSUYAMA A JAPANESE DEVELOPER WHO EARNS OVER 10K PER MONTH](https://medium.com/@yumaueno/takuya-matsuyama-a-japanese-developer-who-earns-over-10k-per-month-from-product-e3a1fb08e6f4)
+
+- [CREATING A PERSONAL BRAND HOW TO SELL YOURSELF AS A DEVELOPER](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po)
+
+- [BEGINNERS GUIDE TO FREELANCING](https://dev.to/llxd/beginners-guide-to-freelancing-3m5i?ref=dailydev)
 
 ## SAAS IDEAS
 
@@ -62,3 +72,5 @@
 - [10 PROFITABLE MICRO-SAAS IDEAS THAT NO ONE IS TALKING IT](https://medium.com/@hii_mohit/10-profitable-micro-saas-ideas-that-no-one-is-talking-about-afa9488728a9)
 - [MY FIRST STARTUP FAILED HERE ARE 5 LESSONS I LEARNED](https://ehandbook.com/my-first-startup-failed-here-are-5-lessons-i-learned-to-get-it-right-the-next-time-b69ed00ce605)
 - [HOW I TRICKED MY BRAIN TO BE ADDICTED TO CODING](https://medium.com/algomaster-io/how-i-tricked-my-brain-to-be-addicted-to-coding-af95dba4f695)
+
+- [](https://medium.com/@codingwinner/making-26-000-month-with-apps-1ec09d7e0445)

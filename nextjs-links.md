@@ -46,6 +46,8 @@
 
 - [HOW TO BECOME A FRONTEND ENGINEER WITHOUT A DEGREE FROM MY EXPERIENCE](https://medium.com/@codebymedu/how-to-become-a-frontend-engineer-without-a-degree-from-my-experience-ea28d46c0a21)
 
+- [20 PROGRAMMING PROJECTS IDEAS THAT WILL MAKE YOU A GOD AT CODING](https://blog.codingwinner.com/20-programming-projects-ideasthat-will-make-you-a-god-at-coding-in-2025-70bc93cfd25d)
+
 - [7 BOOKS THAT MAKE YOU A GREAT TECH LEAD](https://medium.com/@codebymedu/7-books-that-make-you-a-great-tech-lead-6e40ff0529eb)
 
 ## NEXTJS BLOGS
