@@ -43,6 +43,8 @@
 
 - [15 PORTFOLIO REACT PORTFOLIO TEMPLATES](https://www.codewithfaraz.com/article/107/15-inspiring-react-portfolio-templates-for-2023#portfolio-website-v2-0)
 
+- [PORTFOLIO STRUGGLES](https://uxplanet.org/portfolio-struggles-97534912aafe)
+
 - [DRIBBLE PERSONAL WEBSITE-1](https://dribbble.com/shots/19765440-Personal-Portfolio)
 
 - [DRIBBLE PERSONAL WEBSITE-2](https://dribbble.com/shots/22110108-Subtle-Folio-Portfolio-Framer-Template)

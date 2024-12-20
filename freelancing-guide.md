@@ -73,4 +73,4 @@
 - [MY FIRST STARTUP FAILED HERE ARE 5 LESSONS I LEARNED](https://ehandbook.com/my-first-startup-failed-here-are-5-lessons-i-learned-to-get-it-right-the-next-time-b69ed00ce605)
 - [HOW I TRICKED MY BRAIN TO BE ADDICTED TO CODING](https://medium.com/algomaster-io/how-i-tricked-my-brain-to-be-addicted-to-coding-af95dba4f695)
 
-- [](https://medium.com/@codingwinner/making-26-000-month-with-apps-1ec09d7e0445)
+- [MAKING 26000 MONTH WITH APPS](https://medium.com/@codingwinner/making-26-000-month-with-apps-1ec09d7e0445)
