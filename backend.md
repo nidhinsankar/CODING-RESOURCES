@@ -17,3 +17,7 @@
 ## INTERVIEW PREPARATION
 
 - [100 NODEJS QUESTIONS FOR INTERVIEWS](https://habtesoft.medium.com/100-nodejs-questions-for-technical-interviews-f6b2ea483a28)
+
+## CI/CD
+
+- [](https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev)
