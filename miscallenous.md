@@ -13,7 +13,12 @@
 - [HOW TO DEVELOP LOGICAL THINKING](https://www.naukri.com/code360/library/how-to-develop-logical-thinking-in-programming)
 
 - [TIPS TO IMPROVE PROGRAMMING LOGIC](https://www.turing.com/blog/tips-for-beginners-to-improve-programming-logic)
-
+- [](https://freedium.cfd/https://medium.com/womenintechnology/5-unforgiving-mistakes-beginner-programmers-make-7c672c1edbc8)
+- [](https://levelup.gitconnected.com/do-not-be-a-coder-in-2025-5b71f0e348b0)
+- [](https://medium.com/@WaspLang/you-dont-need-to-pay-for-saas-boilerplates-open-saas-f4ee70bbe848)
+- [](https://blog.codingwinner.com/20-programming-projects-ideasthat-will-make-you-a-god-at-coding-in-2025-70bc93cfd25d)
+- [](https://blog.stackademic.com/uber-sde-2-frontend-interview-experience-a-detailed-breakdown-with-coding-questions-and-d7d853bcb26f)
+- [](https://medium.com/@techrecruiter/frontend-engineer-interview-experience-razorpay-d5a887e69f85)
 - [TOP 10 MATH CONCEPTS TO BOOST YOUR PROGRAMMING SKILLS](https://blog.stackademic.com/free-view-top-10-math-concepts-to-boost-your-programming-skills-803e07ebfb51)
 
 - [BECOME A TECHNICAL WRITER](https://blog.stackademic.com/become-a-technical-writer-a02f7355a9b6)
