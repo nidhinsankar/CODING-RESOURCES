@@ -80,8 +80,10 @@
 ## IMPORTANT CONCEPTS IN REACTJS
 
 - [HOW TO USE HIGHER ORDER COMPONENTS IN REACT](https://medium.com/devsphere/how-to-use-higher-order-components-in-react-9e469c93f918)
-
+- [](https://code.likeagirl.io/learning-react-5-important-principles-about-hooks-you-have-to-know-4967cd9d4eb4)
+- [](https://betterprogramming.pub/pitfalls-of-useeffect-for-react-programmers-4ac3f73284b5)
 - [](https://www.keithcirkel.co.uk/i-dont-have-time-to-learn-react/?ref=dailydev)
+- [](https://javascript.plainenglish.io/stop-learning-react-573590319b31)
 - [SHADCN-UI NEXTJS HAS BEEN UNLEASHED UPON THE DEVELOPER ](https://freedium.cfd/https://faun.pub/shadcdn-part-1-next-js-has-been-unleashed-upon-the-developer-400f624edb6d)
 - [THE FUTURE OF FRONTEND DEVELOPMENT KEY SKILLS TO HIRE FOR IN](https://javascript.plainenglish.io/the-future-of-frontend-development-key-skills-to-hire-for-in-2025-d62801ab4e8c)
 

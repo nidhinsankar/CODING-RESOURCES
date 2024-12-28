@@ -58,6 +58,7 @@
 
 - [JOURNEY 100M FROM MEDIUM AND HOW MUCH I EARNED S FAR](https://medium.com/write-a-catalyst/journey-100-m-from-medium-and-how-much-have-i-earned-so-far-30a419de6eaf)
 
+- [](https://medium.com/@katt_72306/3-online-business-ideas-with-significant-demand-low-competition-7639bd2d3340)
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
 
 - [A MAN WHO MAKES 40K PER MONTH](https://medium.com/@yumaueno/mr-steven-cravotta-a-man-who-makes-40k-per-month-building-mobile-apps-despite-being-a-48d3f0d9951f)
@@ -74,3 +75,7 @@
 - [HOW I TRICKED MY BRAIN TO BE ADDICTED TO CODING](https://medium.com/algomaster-io/how-i-tricked-my-brain-to-be-addicted-to-coding-af95dba4f695)
 
 - [MAKING 26000 MONTH WITH APPS](https://medium.com/@codingwinner/making-26-000-month-with-apps-1ec09d7e0445)
+
+## SALES
+
+- [](https://medium.com/entrepreneur-s-handbook/why-so-many-entrepreneurs-suck-at-sales-and-how-to-fix-it-04463512d3d2)
