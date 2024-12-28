@@ -58,7 +58,7 @@
 
 - [JOURNEY 100M FROM MEDIUM AND HOW MUCH I EARNED S FAR](https://medium.com/write-a-catalyst/journey-100-m-from-medium-and-how-much-have-i-earned-so-far-30a419de6eaf)
 
-- [](https://medium.com/@katt_72306/3-online-business-ideas-with-significant-demand-low-competition-7639bd2d3340)
+- [3 ONLINE BUSINESS IDEAS WITH SIGNIFICANT](https://medium.com/@katt_72306/3-online-business-ideas-with-significant-demand-low-competition-7639bd2d3340)
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
 
 - [A MAN WHO MAKES 40K PER MONTH](https://medium.com/@yumaueno/mr-steven-cravotta-a-man-who-makes-40k-per-month-building-mobile-apps-despite-being-a-48d3f0d9951f)
@@ -78,4 +78,4 @@
 
 ## SALES
 
-- [](https://medium.com/entrepreneur-s-handbook/why-so-many-entrepreneurs-suck-at-sales-and-how-to-fix-it-04463512d3d2)
+- [WHY SO MANY ENTREPRENEURS SUCK AT SALES](https://medium.com/entrepreneur-s-handbook/why-so-many-entrepreneurs-suck-at-sales-and-how-to-fix-it-04463512d3d2)

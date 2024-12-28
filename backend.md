@@ -20,4 +20,4 @@
 
 ## CI/CD
 
-- [](https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev)
+- [WHAT IS CICD PIPELINE](https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev)
