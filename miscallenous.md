@@ -9,7 +9,7 @@
 - [TOP 15 VSCODE EXTENSION TO BOOST YOUR WORKFLOW](https://blog.stackademic.com/top-15-vs-code-extensions-to-boost-your-workflow-9013a0a550dc)
 
 - [DOPAMINE EARNED BY DOING HARD THINGS FEELS REAL](https://medium.com/@anjishnuray/dopamine-earned-by-doing-hard-things-feels-real-b13238b3ad1a)
-
+- [SIDE PROJECTS HAUNTING](https://cassidoo.co/post/side-project-haunting/?ref=dailydev)
 - [HOW TO DEVELOP LOGICAL THINKING](https://www.naukri.com/code360/library/how-to-develop-logical-thinking-in-programming)
 
 - [TIPS TO IMPROVE PROGRAMMING LOGIC](https://www.turing.com/blog/tips-for-beginners-to-improve-programming-logic)
