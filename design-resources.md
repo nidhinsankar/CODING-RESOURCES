@@ -15,6 +15,8 @@
 - [10 RULES OF DASHBOARD DESIGN](https://medium.muz.li/10-rules-of-dashboard-design-f1a4123028a2)
 - [HOW TO NAME COLORS IN DESIGN SYSTEM](https://medium.com/user-experience-design-1/how-to-name-colors-in-design-systems-976657e12b57)
 
+- [17 GAME CHANGING FRONTEND TOOLS YOU CANT MISS IN 2025](https://medium.com/@letscodefuture/17-game-changing-frontend-tools-you-cant-miss-in-2025-3755bad3a304)
+
 ## SYSTEM DESIGN
 
 - [BOOKS I READ TO PREPARE FOR MY GOOGLE AND MICROSOFT](https://medium.com/javarevisited/books-i-read-to-prepare-for-my-google-and-microsoft-system-design-rounds-0615d0976e49)

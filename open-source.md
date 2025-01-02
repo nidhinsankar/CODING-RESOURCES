@@ -8,6 +8,9 @@
 - [9 OPEN SOURCE NEXTJS PROJECTS OPEN FOR CONTRIBUTION](https://dev.to/devkiran/9-open-source-nextjs-projects-open-for-contributions-272c)
 - [OPEN SOURCE REACT PROJECTS TO CONTRIBUTE FROM NOVICE TO EXPERT](https://osssoftware.org/blog/open-source-react-projects-to-contribute-from-novice-to-expert/)
 - [BEST LARGE OPEN SOURCE NEXTJS PROJECTS TO STUDY](https://www.greatfrontend.com/blog/best-large-open-source-nextjs-projects-to-study)
+
+- [OPEN SOURCE PROJECTS YOU NEED TO SEE](https://medium.com/sourcescribes/open-source-projects-you-need-to-see-4948465645ce)
+
 - [18 GITHUB REPOSITORIES TO BOOST YOUR CAREER AS A DEVELOPER](https://blog.stackademic.com/18-github-repositories-to-boost-your-career-as-a-developer-82af93fffffa)
 
 - [HOW TO CONTRIBUTE TO OPENSOURCE](https://opensource.guide/how-to-contribute/)
@@ -42,7 +45,7 @@
 
 - [OPEN SOURCE API FOR YOUR NEXT PROJECT](https://medium.com/javascript-decoded-in-plain-english/open-source-apis-for-your-next-project-use-lifetime-for-free-a748a11639ae)
 
-- [](https://dev.to/prodevstaff/top-free-apis-every-developer-should-know-1ip)
+- [TOP FREE APIS EVERY DEVELOPER SHOULD KNOW LIP](https://dev.to/prodevstaff/top-free-apis-every-developer-should-know-1ip)
 
 ## AI APPS
 

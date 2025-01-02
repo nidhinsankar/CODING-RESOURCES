@@ -27,6 +27,7 @@
 
 - [THE ZEN CODING TECHNIQUE THAT 10X MY PRODUCTITY](https://medium.com/write-a-catalyst/the-zen-coding-technique-that-10x-d-my-productivity-a050155f947d)
 
+- [SIDE PROJECT HAUNTING](https://cassidoo.co/post/side-project-haunting/?ref=dailydev)
 - [DSA TO DEVELOPMENT COMPLETE GUIDE](https://www.atharvgyan.com/2023/11/dsa-to-development-complete-guide_4.html?m=1#google_vignette)
 
 - [THIS IS WHY I MAKE TIME FOR SELF LEARNING APART FROM MY 9-5 JOB AS A DEVELOPER](https://medium.com/javarevisited/this-is-why-i-make-time-for-self-learning-apart-from-my-9-5-job-as-a-developer-and-you-should-too-c819325ff326)
