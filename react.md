@@ -45,6 +45,7 @@
 
 - [PORTFOLIO STRUGGLES](https://uxplanet.org/portfolio-struggles-97534912aafe)
 
+- [PORTFOLIO IDEAS](https://portfolio-ideas.vercel.app/portfolio.html)
 - [DRIBBLE PERSONAL WEBSITE-1](https://dribbble.com/shots/19765440-Personal-Portfolio)
 
 - [DRIBBLE PERSONAL WEBSITE-2](https://dribbble.com/shots/22110108-Subtle-Folio-Portfolio-Framer-Template)

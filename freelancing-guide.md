@@ -40,6 +40,8 @@
 
 - [THE ULTIMATE GUIDE TO GENERATING KILLER SAAS IDEAS](https://blog.stackademic.com/the-ultimate-guide-to-generating-killer-saas-ideas-in-2024-e02a4290bcc0?gi=aba7e1b2d5ec)
 
+- [](https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9)
+
 ## FREELANCE BLOGS
 
 - [JOB SEARCH TIPS](https://www.nobledesktop.com/careers/front-end-developer/job-search-tips)
@@ -66,8 +68,6 @@
 - [24 BUSINESS IDEAS FOR 2024](https://kennykandola.medium.com/24-business-ideas-for-2024-dbbdb99a878e)
 
 - [9 TIPS I LEARNED FROM AN AI MICRO-SAAS WHO SOLD IT FOR SIX FIGURES](https://medium.com/databutton/9-tips-i-learned-from-an-ai-micro-saas-founder-who-sold-it-for-six-figures-f951b85c7198)
-
-- [OPEN SOURCE PROJECTS YOU NEED TO SEE](https://medium.com/sourcescribes/open-source-projects-you-need-to-see-4948465645ce)
 
 - [SAAS IDEA THAT YOU CAN TRY](https://medium.com/@shivanshudev/saas-idea-that-you-can-try-4a07276eaaf4)
 - [10 PROFITABLE MICRO-SAAS IDEAS THAT NO ONE IS TALKING IT](https://medium.com/@hii_mohit/10-profitable-micro-saas-ideas-that-no-one-is-talking-about-afa9488728a9)

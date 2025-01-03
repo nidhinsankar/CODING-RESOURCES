@@ -21,3 +21,7 @@
 ## CI/CD
 
 - [WHAT IS CICD PIPELINE](https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev)
+
+## AWS
+
+- [](https://medium.com/aws-tip/i-reduced-aws-bills-by-80-just-by-optimizing-node-js-code-c8c13618d5d0?source=post_page---read_next_recirc--bab2d17744d9----0---------------------8ddc2c2e_4636_40c8_8ce5_0094de524c79-------)
