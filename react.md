@@ -28,6 +28,7 @@
 - [REACT RESOURCES](https://reactresources.com/)
 
 - [SIX WAYS TO GET BETTER AT REACT](https://frontend-digest.com/six-ways-to-get-better-at-react-ccb321a7c35)
+- [BEST 10 REACTJS PROJECTS TO LEARN](https://medium.com/@tajammalmaqbool11/best-10-react-js-projects-to-learn-a4da569a3d6e)
 
 -[7 REACTJS PROJECTS TO BECOME A BETTER DEVELOPER](https://medium.com/@hii_mohit/7-reactjs-projects-to-become-a-better-developer-98ca544bdf84)
 

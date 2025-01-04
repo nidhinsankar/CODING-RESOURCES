@@ -27,6 +27,8 @@
 
 - [TOP DESIGN PATTERN FOR FRONTEND](https://dev.to/superviz/top-design-patterns-for-frontend-1bk5?ref=dailydev)
 
+- [FRONTEND SYSTEM DESIGN GOOGLE CALENDAR](https://medium.com/@shivambh28/frontend-system-design-design-google-calendar-d63004cd539a)
+
 ## FRONTEND CSS DESIGN
 
 - [TOP 6 CSS CHEATSHEETS](https://blog.stackademic.com/the-top-6-css-cheatsheets-that-will-save-you-hours-2e1d29ed5c24)
