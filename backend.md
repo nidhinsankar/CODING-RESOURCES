@@ -25,3 +25,7 @@
 ## AWS
 
 - [](https://medium.com/aws-tip/i-reduced-aws-bills-by-80-just-by-optimizing-node-js-code-c8c13618d5d0?source=post_page---read_next_recirc--bab2d17744d9----0---------------------8ddc2c2e_4636_40c8_8ce5_0094de524c79-------)
+
+## DATABASE
+
+- [](https://medium.com/@letscodefuture/top-5-must-have-database-tools-in-2025-as-a-developer-26911a38e125)

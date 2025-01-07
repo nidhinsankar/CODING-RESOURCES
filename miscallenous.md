@@ -11,7 +11,7 @@
 - [DOPAMINE EARNED BY DOING HARD THINGS FEELS REAL](https://medium.com/@anjishnuray/dopamine-earned-by-doing-hard-things-feels-real-b13238b3ad1a)
 - [SIDE PROJECTS HAUNTING](https://cassidoo.co/post/side-project-haunting/?ref=dailydev)
 - [HOW TO DEVELOP LOGICAL THINKING](https://www.naukri.com/code360/library/how-to-develop-logical-thinking-in-programming)
-
+- [](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev)
 - [TIPS TO IMPROVE PROGRAMMING LOGIC](https://www.turing.com/blog/tips-for-beginners-to-improve-programming-logic)
 - [DO NOT BE A CODER IN 2025](https://levelup.gitconnected.com/do-not-be-a-coder-in-2025-5b71f0e348b0)
 - [5 UNFORGIVING MISTAKES BEGINNERS PROGRAMMERS](https://freedium.cfd/https://medium.com/womenintechnology/5-unforgiving-mistakes-beginner-programmers-make-7c672c1edbc8)
