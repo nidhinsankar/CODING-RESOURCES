@@ -54,7 +54,7 @@
 
 - [19 NEXTJS PROJECT IDEAS FOR PORTFOLIO](https://www.codebymedu.com/blog/19-next-js-project-ideas-for-portfolio)
 
-- [](https://medium.com/designly/full-stack-next-js-15-development-using-zod-typescript-trpc-react-query-and-sequelize-orm-6321e3e9c3f6)
+- [FULL STACK NEXTJS 15 DEVELOPMENT USING ZOD AND TYPESCRIPT](https://medium.com/designly/full-stack-next-js-15-development-using-zod-typescript-trpc-react-query-and-sequelize-orm-6321e3e9c3f6)
 
 ## PROJECT IDEAS
 
