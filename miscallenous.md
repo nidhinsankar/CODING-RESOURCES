@@ -86,18 +86,16 @@
 
 - [WEBSITES TO FIND INSPIRATIONAL STARTUP SAAS IDEAS](https://medium.com/cub3d/websites-to-find-inspirational-saas-ideas-785aabbe4452)
 
-- [](https://medium.com/@letscodefuture/11-must-know-websites-every-developer-should-bookmark-166c8ff86ea9)
+- [11 MUST KNOW WEBSITES FOR EVERY DEVELOPERS](https://medium.com/@letscodefuture/11-must-know-websites-every-developer-should-bookmark-166c8ff86ea9)
 
 - [TECHNOLGIES CHOICES YOU MAKE FOR YOUR SAAS](https://medium.com/@shivanshudev/technologies-choices-you-make-for-your-saas-be955c328d7d)
 
 - [YES HERES THE BEST WAY TO BUILD A SAAS OR MICRO-SAAS](https://medium.com/itnext/yes-heres-the-best-way-to-build-a-saas-or-micro-saas-a59c75f07def)
 
-- [](https://medium.com/@shivanshudev/micro-saas-idea-that-you-can-try-as-a-solo-entrepreneur-9444a19baac4)
+- [MICROSAAS IDEA THAT YOU CAN TRY](https://medium.com/@shivanshudev/micro-saas-idea-that-you-can-try-as-a-solo-entrepreneur-9444a19baac4)
 
-- [](https://blog.cubed.run/websites-to-find-inspirational-saas-ideas-785aabbe4452)
+- [WEBSITES TO FIND INSPIRATIONAL SAAS IDEAS](https://blog.cubed.run/websites-to-find-inspirational-saas-ideas-785aabbe4452)
 
-- [](https://blog.startupstash.com/how-solo-founders-are-disrupting-startup-culture-19fbf7788d2b)
+- [HOW SOLO FOUNDERS ARE DISTRUPTING STARTUP CULTURE](https://blog.startupstash.com/how-solo-founders-are-disrupting-startup-culture-19fbf7788d2b)
 
 ## MARKETING STRATEGIES
-
-- []()
