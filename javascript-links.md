@@ -19,6 +19,8 @@
 - [DON'T MAKE THESE MISTAKES AS A JAVASCRIPT DEVELOPER OR YOUR APPLICATION PERFORMANCE WILL SUFFER](https://javascript.plainenglish.io/dont-make-these-mistakes-as-a-javascript-developer-or-your-application-performance-will-suffer-1f0293ded126)
 - [the ultimate guide to javascript objects](https://medium.com/@nile.bits/the-ultimate-guide-to-javascript-objects-0f2c5d55e697)
 
+- [JAVASCRIPT MEMORY MANAGEENT AND OPTIMIZATIONS TECHNIQUES FOR LARGE SCALE APPLICATIONS](https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a?ref=dailydev)
+
 - [JAVASCRIPT VISUALIZED THE JAVASCRIPT ENGINE](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf?ref=dailydev)
 
 - [BEGINNERS GUIDE TO CREATING DYNAMIC FORMS WITH JAVASCRIPT](https://medium.com/@AlexanderObregon/beginners-guide-to-creating-dynamic-forms-with-javascript-10aef6a8843d)
