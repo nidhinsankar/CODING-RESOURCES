@@ -102,4 +102,4 @@
 
 ## NICHE WEBSITES
 
-- [](https://freedium.cfd/https://medium.datadriveninvestor.com/ugly-niche-websites-that-make-over-5000-9c5485e06eb7)
+- [UGLY NICHE WEBSITESTHAT MAKE OVER 5000](https://freedium.cfd/https://medium.datadriveninvestor.com/ugly-niche-websites-that-make-over-5000-9c5485e06eb7)

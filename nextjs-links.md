@@ -60,4 +60,4 @@
 
 - [AWESOME CODING PROJECTS](https://github.com/ashishps1/awesome-coding-projects)
 
-- [](https://medium.com/@andipyk/building-a-simple-pos-system-with-next-js-and-shadcn-ui-5de95bdec943)
+- [BUILDING A SIMPLE POS SYSTEM WITH NEXTJS AND SHADCN-UI](https://medium.com/@andipyk/building-a-simple-pos-system-with-next-js-and-shadcn-ui-5de95bdec943)

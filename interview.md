@@ -53,7 +53,7 @@
 
 - [TODAY I INTERVIEWED FOR LEAD FRONTEND ROLE](https://medium.com/@iorilan/today-i-interviewed-for-a-lead-front-end-role-d4845e5ddd2e)
 
-- [](https://freedium.cfd/https://medium.com/career-drill/frontend-engineer-stripe-interview-experience-1893548649eb)
+- [FRONTEND ENGINEER STRIPE INTERVIEW EXPERIENCE](https://freedium.cfd/https://medium.com/career-drill/frontend-engineer-stripe-interview-experience-1893548649eb)
 
 ## JOB BOAREDS
 
