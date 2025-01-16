@@ -67,6 +67,8 @@
 - [3 ONLINE BUSINESS IDEAS WITH SIGNIFICANT](https://medium.com/@katt_72306/3-online-business-ideas-with-significant-demand-low-competition-7639bd2d3340)
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
 
+- [](https://medium.com/@jovan.cicmil.dev/10-realistic-saas-projects-for-solo-founders-9375c20b2da8)
+
 - [A MAN WHO MAKES 40K PER MONTH](https://medium.com/@yumaueno/mr-steven-cravotta-a-man-who-makes-40k-per-month-building-mobile-apps-despite-being-a-48d3f0d9951f)
 
 - [24 BUSINESS IDEAS FOR 2024](https://kennykandola.medium.com/24-business-ideas-for-2024-dbbdb99a878e)

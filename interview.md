@@ -53,6 +53,8 @@
 
 - [TODAY I INTERVIEWED FOR LEAD FRONTEND ROLE](https://medium.com/@iorilan/today-i-interviewed-for-a-lead-front-end-role-d4845e5ddd2e)
 
+- [](https://freedium.cfd/https://medium.com/career-drill/frontend-engineer-stripe-interview-experience-1893548649eb)
+
 ## JOB BOAREDS
 
 - [7 BEST REMOTE JOB BOARDS](https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0)

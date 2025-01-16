@@ -99,3 +99,7 @@
 - [HOW SOLO FOUNDERS ARE DISTRUPTING STARTUP CULTURE](https://blog.startupstash.com/how-solo-founders-are-disrupting-startup-culture-19fbf7788d2b)
 
 ## MARKETING STRATEGIES
+
+## NICHE WEBSITES
+
+- [](https://freedium.cfd/https://medium.datadriveninvestor.com/ugly-niche-websites-that-make-over-5000-9c5485e06eb7)

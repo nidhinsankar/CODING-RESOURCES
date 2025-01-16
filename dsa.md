@@ -7,6 +7,7 @@
 
 - [CURIOUS FREAKS DSA SHEET](https://docs.google.com/spreadsheets/d/1P3RXgZju_2OzZyJaRtu6D3Kx-Eks38X09_zJ8aj2zy8/edit?gid=0#gid=0)
 
+- [](https://medium.com/algomaster-io/how-to-start-leetcode-in-2025-as-a-beginner-5306b44e42f9)
 - [MASTERING DSA](https://tiwari00ayush.hashnode.dev/mastering-dsa)
 - [LEARNING DSA AFTER 4 YEARS DSA AFTER 4 YEARS](https://freedium.cfd/https://blog.stackademic.com/learning-dsa-after-4-years-of-experience-cf0050e7e770)
 
@@ -38,4 +39,4 @@
 
 ## DSA LEARNINGS BLOG
 
-- [WHAT I LEARNED FROM SOLVING 1200 LEETCODE PROBLEMS](https://freedium.cfd/https://ai.plainenglish.io/what-i-learned-from-solving-1200-leetcode-problems-8c3615ac0b71)
+- [WHAT I LEARNED FROM SOLVING 1200 LEETCODE PROBLEMS ](https://freedium.cfd/https://ai.plainenglish.io/what-i-learned-from-solving-1200-leetcode-problems-8c3615ac0b71)
