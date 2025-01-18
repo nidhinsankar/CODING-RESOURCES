@@ -102,4 +102,12 @@
 
 ## NICHE WEBSITES
 
+- [SIMPLE APPS BUT MAKING 100000](https://medium.com/write-a-catalyst/simple-apps-but-making-1-000-000-8f7ec84108d7)
+
 - [UGLY NICHE WEBSITESTHAT MAKE OVER 5000](https://freedium.cfd/https://medium.datadriveninvestor.com/ugly-niche-websites-that-make-over-5000-9c5485e06eb7)
+
+## PASSIVE INCOME
+
+- [32 PASSIVE INCOMES IDEAS TO BUILD WEALTH](https://medium.com/@samantawrites/32-proven-passive-income-ideas-to-build-wealth-in-2025-3de575f7b5ce)
+- [MAKE MONEY ONLIE 50HR JOBS WITH NO EXPERIENCE NEEDED](https://medium.com/@sareena18/make-money-online-50-hr-jobs-with-no-experience-needed-d7860d594927)
+- [HOW MARKETING CAN SAVE YOU](https://medium.com/lounge-of-entrepreneurs/how-marketing-can-save-you-d50187c1f4c3)
