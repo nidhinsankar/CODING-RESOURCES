@@ -8,3 +8,5 @@
 - [ADVANCED TYPESCRIPT](https://angularexperts.io/blog/advanced-typescript?ref=dailydev)
 
 - [MASTER TYPESCRIPT ALL FEATURES DEMONSTRATED](https://javascript.plainenglish.io/master-typescript-all-features-demonstrated-with-fullstack-code-examples-357854c11dda)
+
+- [](https://medium.com/career-drill/5-most-asked-typescript-questions-b6896ea97727)

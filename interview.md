@@ -20,7 +20,7 @@
 ## ROADMAP
 
 - [PREPARING FOR THE FRONTEND INTERVIEW](https://medium.com/@danduan/preparing-for-the-frontend-interview-in-50-hours-5b972d43a07c)
-
+- [FRONTENDLEAD](https://frontendlead.com/handbook/study-plan)
 - [PREPARE FOR REACT TECHNICAL INTERVIEW](https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/)
 
 - [HOW TO PREPARE FOR A FRONTEND DEVELOPER INTERVIEW](https://javascript.plainenglish.io/how-to-prepare-for-a-frontend-developer-interview-step-by-step-guide-94e4708fcd03)
@@ -55,8 +55,16 @@
 
 - [FRONTEND ENGINEER STRIPE INTERVIEW EXPERIENCE](https://freedium.cfd/https://medium.com/career-drill/frontend-engineer-stripe-interview-experience-1893548649eb)
 
+- [](https://javascript.plainenglish.io/the-ultimate-guide-to-web-performance-essential-techniques-for-frontend-developers-c8638e5bf8d3)
+
 ## JOB BOAREDS
 
 - [7 BEST REMOTE JOB BOARDS](https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0)
 
 - [REMOTE JOB BOARDS](https://webcurate.co/c/remote-job)
+
+## RESUME
+
+- [zety](zety)
+- [jobscan](jobscan)
+- [enhancv](enhancv)
