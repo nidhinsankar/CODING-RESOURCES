@@ -10,6 +10,7 @@
 
 - [DOPAMINE EARNED BY DOING HARD THINGS FEELS REAL](https://medium.com/@anjishnuray/dopamine-earned-by-doing-hard-things-feels-real-b13238b3ad1a)
 - [SIDE PROJECTS HAUNTING](https://cassidoo.co/post/side-project-haunting/?ref=dailydev)
+- [LINUX CREATOR REVEALS THE FUTURE OF PROGRAMMING WITH AI](https://medium.com/stackademic/linux-creator-reveals-the-future-of-programming-with-ai-91455af6747e)
 - [HOW TO DEVELOP LOGICAL THINKING](https://www.naukri.com/code360/library/how-to-develop-logical-thinking-in-programming)
 - [37 TIPS FROM A SENIOR FRONTEND DEVELOPER](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev)
 - [TIPS TO IMPROVE PROGRAMMING LOGIC](https://www.turing.com/blog/tips-for-beginners-to-improve-programming-logic)
@@ -106,7 +107,7 @@
 
 - [UGLY NICHE WEBSITESTHAT MAKE OVER 5000](https://freedium.cfd/https://medium.datadriveninvestor.com/ugly-niche-websites-that-make-over-5000-9c5485e06eb7)
 
-- [](https://medium.com/aimonks/19-handpicked-ai-tools-for-entrepreneurs-c073f329648d)
+- [19 HANDPICKED AI TOOLS FOR ENTREPRENEURS](https://medium.com/aimonks/19-handpicked-ai-tools-for-entrepreneurs-c073f329648d)
 
 ## PASSIVE INCOME
 

@@ -39,6 +39,7 @@
 - [BLOG DUOMLY](https://www.blog.duomly.com/)
 
 - [THE ULTIMATE GUIDE TO GENERATING KILLER SAAS IDEAS](https://blog.stackademic.com/the-ultimate-guide-to-generating-killer-saas-ideas-in-2024-e02a4290bcc0?gi=aba7e1b2d5ec)
+- [ ](https://dev.to/tamerlang/project-ideas-to-make-you-a-better-developer-37l3)
 
 - [BUILDING A HEADLESS MOBILE APP CMS FROM SCRATCH](https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9)
 
@@ -64,7 +65,7 @@
 
 - [JOURNEY 100M FROM MEDIUM AND HOW MUCH I EARNED S FAR](https://medium.com/write-a-catalyst/journey-100-m-from-medium-and-how-much-have-i-earned-so-far-30a419de6eaf)
 
-- [](https://mitaboost.medium.com/how-i-find-validate-app-ideas-in-2024-micro-saas-c0f245f82b64)
+- [HOW I FIND VALIDATE APP IDEAS IN 2024 MICRO-SAAS](https://mitaboost.medium.com/how-i-find-validate-app-ideas-in-2024-micro-saas-c0f245f82b64)
 
 - [3 ONLINE BUSINESS IDEAS WITH SIGNIFICANT](https://medium.com/@katt_72306/3-online-business-ideas-with-significant-demand-low-competition-7639bd2d3340)
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
@@ -87,3 +88,5 @@
 ## SALES
 
 - [WHY SO MANY ENTREPRENEURS SUCK AT SALES](https://medium.com/entrepreneur-s-handbook/why-so-many-entrepreneurs-suck-at-sales-and-how-to-fix-it-04463512d3d2)
+
+- [PROJECT IDEAS DON'T HAVE TO BE UNIQUE HERE WHY](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)

@@ -55,7 +55,7 @@
 
 - [FRONTEND ENGINEER STRIPE INTERVIEW EXPERIENCE](https://freedium.cfd/https://medium.com/career-drill/frontend-engineer-stripe-interview-experience-1893548649eb)
 
-- [](https://javascript.plainenglish.io/the-ultimate-guide-to-web-performance-essential-techniques-for-frontend-developers-c8638e5bf8d3)
+- [THE ULTIMATE GUIDE TO WEB PERFORMANCE ESSENTIAL TECHNIQUES](https://javascript.plainenglish.io/the-ultimate-guide-to-web-performance-essential-techniques-for-frontend-developers-c8638e5bf8d3)
 
 ## JOB BOAREDS
 
