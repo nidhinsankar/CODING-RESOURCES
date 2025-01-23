@@ -37,8 +37,6 @@
 
 - [STOP PAYING FOR COURSES DO THIS INSTEAD](https://medium.com/@axel.em.casas/stop-paying-for-courses-do-this-instead-3bfd1b4b387f)
 
-- [CREATINF A PERSONAL BRAND HOW TO SELL YOURSELF AS A DEVELOPER](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev)
-
 ## LIFE LESSONS
 
 - [WHY THE 21 DAY HABIT RULE IS A LIE THE REAL TIME IT TAKES TO BREAK BAD HABIT](https://medium.com/word-garden/why-the-21-day-habit-rule-is-a-lie-the-real-time-it-takes-to-break-bad-habits-272f9c70dddb)

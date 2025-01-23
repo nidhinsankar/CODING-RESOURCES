@@ -37,7 +37,7 @@
 ## PROJECT IDEAS BLOGS
 
 - [BLOG DUOMLY](https://www.blog.duomly.com/)
-
+- [](https://mitaboost.medium.com/how-i-code-profitable-apps-solo-no-wasted-time-with-ai-5a5751d2cf74)
 - [THE ULTIMATE GUIDE TO GENERATING KILLER SAAS IDEAS](https://blog.stackademic.com/the-ultimate-guide-to-generating-killer-saas-ideas-in-2024-e02a4290bcc0?gi=aba7e1b2d5ec)
 - [ ](https://dev.to/tamerlang/project-ideas-to-make-you-a-better-developer-37l3)
 
@@ -82,7 +82,7 @@
 - [10 PROFITABLE MICRO-SAAS IDEAS THAT NO ONE IS TALKING IT](https://medium.com/@hii_mohit/10-profitable-micro-saas-ideas-that-no-one-is-talking-about-afa9488728a9)
 - [MY FIRST STARTUP FAILED HERE ARE 5 LESSONS I LEARNED](https://ehandbook.com/my-first-startup-failed-here-are-5-lessons-i-learned-to-get-it-right-the-next-time-b69ed00ce605)
 - [HOW I TRICKED MY BRAIN TO BE ADDICTED TO CODING](https://medium.com/algomaster-io/how-i-tricked-my-brain-to-be-addicted-to-coding-af95dba4f695)
-
+- [](https://medium.com/@thestrategicentrepreneur/15-most-profitable-small-business-ideas-worth-starting-in-2025-476cc100b5fc)
 - [MAKING 26000 MONTH WITH APPS](https://medium.com/@codingwinner/making-26-000-month-with-apps-1ec09d7e0445)
 
 ## SALES
