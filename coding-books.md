@@ -17,4 +17,4 @@
 
 - [TOP 30 POPULAR WEBSITES TO LEARN CODING](https://medium.com/@letscodefuture/top-30-popularwebsites-to-learn-coding-b8ba112539a3)
 
-- [](https://medium.com/@letscodefuture/25-game-changing-websites-every-developer-must-bookmark-bfbb1399e35f)
+- [25 GAME CHANGING WEBSITES EVERY DEVELOPER MUST BOOKMARK](https://medium.com/@letscodefuture/25-game-changing-websites-every-developer-must-bookmark-bfbb1399e35f)
