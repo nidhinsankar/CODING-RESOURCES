@@ -55,6 +55,8 @@
 
 - [BEST PROJECTS THAT YOU CAN BUILD IN ONE DAY](https://gyanendraknojiya.medium.com/best-projects-that-you-can-build-in-one-day-a55743fd242e)
 
+- [17 TIPS FROM A SENIOR REACT DEVELOPER](https://dev.to/_ndeyefatoudiop/17-tips-from-a-senior-react-developer-2249?ref=dailydev)
+
 ## INTERVIEW QUESTION
 
 - [3 REACT QUESTION QUESTIONS TO KNOW IN INTERVIEW](https://levelup.gitconnected.com/3-react-interview-questions-i-will-ask-in-react-interviews-db15c7fcd55d)
