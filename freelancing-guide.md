@@ -39,7 +39,9 @@
 - [BLOG DUOMLY](https://www.blog.duomly.com/)
 - [HOW I CODE PROFITABLE APPS SOLO NO WASTED WITH AI](https://mitaboost.medium.com/how-i-code-profitable-apps-solo-no-wasted-time-with-ai-5a5751d2cf74)
 - [THE ULTIMATE GUIDE TO GENERATING KILLER SAAS IDEAS](https://blog.stackademic.com/the-ultimate-guide-to-generating-killer-saas-ideas-in-2024-e02a4290bcc0?gi=aba7e1b2d5ec)
-- [ ](https://dev.to/tamerlang/project-ideas-to-make-you-a-better-developer-37l3)
+- [PROJECT IDEA TO MAKE YOU A BETTER DEVELOPER](https://dev.to/tamerlang/project-ideas-to-make-you-a-better-developer-37l3)
+
+- [11 BORING WEBSITES MAKING OVER 1.7 MILLION PER MONTH AND WHY SIMPLICITY SELLS](https://medium.com/@datasciencenexus/11-boring-websites-making-over-1-7-million-per-month-and-why-simplicity-sells-9ac481cb0469)
 
 - [BUILDING A HEADLESS MOBILE APP CMS FROM SCRATCH](https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9)
 
