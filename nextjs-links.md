@@ -16,6 +16,8 @@
 
 - [ARCHITECTING A FRONTEND APP WITH NEXTJS A TECHNICAL LEADERS GUIDE](https://blog.stackademic.com/architecting-a-front-end-app-with-next-js-a-technical-leaders-guide-7e0b27750a1f)
 
+- [HOW I INTEGRATED AUTHENTICATION NEXT-AUTH V5 IN MY NEXJS 14 APP](https://judy-webdecoded.medium.com/how-i-integrated-authentication-next-auth-v5-in-my-nextjs-14-application-0d57f84cf4ac)
+
 ## NEXTJS + APPWRITE
 
 - [NEXTJS APPWRITE](https://livecycle.io/blogs/nextjs-appwrite/)
