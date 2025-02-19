@@ -18,3 +18,7 @@
 - [TOP 30 POPULAR WEBSITES TO LEARN CODING](https://medium.com/@letscodefuture/top-30-popularwebsites-to-learn-coding-b8ba112539a3)
 
 - [25 GAME CHANGING WEBSITES EVERY DEVELOPER MUST BOOKMARK](https://medium.com/@letscodefuture/25-game-changing-websites-every-developer-must-bookmark-bfbb1399e35f)
+
+## COMPUTER BASICS AND SETUP PC'S
+
+- [](https://levelup.gitconnected.com/from-linux-to-mac-building-the-perfect-development-machine-in-2025-14db582f239f)
