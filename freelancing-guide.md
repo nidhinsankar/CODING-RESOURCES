@@ -66,11 +66,11 @@
 - [TOP SAAS STARTUP IDEAS](https://medium.com/@gyanendraknojiya/top-saas-startup-ideas-your-next-big-success-story-6869dc2db0a0)
 
 - [JOURNEY 100M FROM MEDIUM AND HOW MUCH I EARNED S FAR](https://medium.com/write-a-catalyst/journey-100-m-from-medium-and-how-much-have-i-earned-so-far-30a419de6eaf)
-- [](https://medium.com/@shivanshudev/saas-idea-that-you-can-try-building-8a8715cf2e8d)
-- [](https://medium.com/@Luna-Rojas/building-a-profitable-saas-in-7-days-my-journey-with-wasp-1e4ea8744ea9)
+- [SAAS IDEA THAT YOU CAN TRY BUILDING](https://medium.com/@shivanshudev/saas-idea-that-you-can-try-building-8a8715cf2e8d)
+- [BUILDING A PROFITABLE SAAS IN 7 DAYS MY JOURNEY WITH WASP](https://medium.com/@Luna-Rojas/building-a-profitable-saas-in-7-days-my-journey-with-wasp-1e4ea8744ea9)
 - [HOW I FIND VALIDATE APP IDEAS IN 2024 MICRO-SAAS](https://mitaboost.medium.com/how-i-find-validate-app-ideas-in-2024-micro-saas-c0f245f82b64)
-- [](https://heyitsrose.medium.com/how-to-make-300-mo-selling-simple-websites-58dc058b576d)
-- [](https://medium.com/mr-plan-publication/the-most-passive-side-hustle-for-beginners-2f2c5809b510)
+- [HOW TO MAKE 300 MONTH SELLING SIMPLE WEBSITES](https://heyitsrose.medium.com/how-to-make-300-mo-selling-simple-websites-58dc058b576d)
+- [THE MOST PASSIVE SIDE HUSTLE FOR BEGINNERS](https://medium.com/mr-plan-publication/the-most-passive-side-hustle-for-beginners-2f2c5809b510)
 - [3 ONLINE BUSINESS IDEAS WITH SIGNIFICANT](https://medium.com/@katt_72306/3-online-business-ideas-with-significant-demand-low-competition-7639bd2d3340)
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
 
