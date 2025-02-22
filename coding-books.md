@@ -21,4 +21,4 @@
 
 ## COMPUTER BASICS AND SETUP PC'S
 
-- [](https://levelup.gitconnected.com/from-linux-to-mac-building-the-perfect-development-machine-in-2025-14db582f239f)
+- [FROM LINUX TO MAC BUILDING THE PERFECT DEVELOPMENT MACHINE 2025](https://levelup.gitconnected.com/from-linux-to-mac-building-the-perfect-development-machine-in-2025-14db582f239f)

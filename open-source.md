@@ -45,7 +45,7 @@
 
 - [OPEN SOURCE API FOR YOUR NEXT PROJECT](https://medium.com/javascript-decoded-in-plain-english/open-source-apis-for-your-next-project-use-lifetime-for-free-a748a11639ae)
 
-- [](https://itnext.io/should-you-use-an-open-source-saas-boilerplate-starter-or-a-300-paid-one-0872d1e31e63)
+- [SHOULD YOU USE AN OPEN-SOURCE SAAS BOILERPLATE STARTER OR A 300 PAID ONE](https://itnext.io/should-you-use-an-open-source-saas-boilerplate-starter-or-a-300-paid-one-0872d1e31e63)
 
 - [TOP FREE APIS EVERY DEVELOPER SHOULD KNOW LIP](https://dev.to/prodevstaff/top-free-apis-every-developer-should-know-1ip)
 
