@@ -72,6 +72,7 @@
 - [HOW TO MAKE 300 MONTH SELLING SIMPLE WEBSITES](https://heyitsrose.medium.com/how-to-make-300-mo-selling-simple-websites-58dc058b576d)
 - [THE MOST PASSIVE SIDE HUSTLE FOR BEGINNERS](https://medium.com/mr-plan-publication/the-most-passive-side-hustle-for-beginners-2f2c5809b510)
 - [3 ONLINE BUSINESS IDEAS WITH SIGNIFICANT](https://medium.com/@katt_72306/3-online-business-ideas-with-significant-demand-low-competition-7639bd2d3340)
+- [CREATING A PERSONAL BRAND HOW TO SELL YOURSELF AS A DEVELOPER](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev)
 - [FINDING MEANING BEYOND SELFLESS STRVIING](https://medium.com/write-a-catalyst/finding-meaning-beyond-endless-striving-d4f61eab4919)
 
 - [10 REALISTIC SAAS PROJECTS FOR SOLO FOUNDERS](https://medium.com/@jovan.cicmil.dev/10-realistic-saas-projects-for-solo-founders-9375c20b2da8)
