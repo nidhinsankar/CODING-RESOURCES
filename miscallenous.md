@@ -97,7 +97,9 @@
 
 - [HOW SOLO FOUNDERS ARE DISTRUPTING STARTUP CULTURE](https://blog.startupstash.com/how-solo-founders-are-disrupting-startup-culture-19fbf7788d2b)
 
-## MARKETING STRATEGIES
+## PRODUCTIVTY
+
+- [HOW TO BE 10X MORE PRODUCTIVE](https://newsletter.techworld-with-milan.com/p/how-to-be-10x-more-productive?ref=dailydev)
 
 ## NICHE WEBSITES
 
