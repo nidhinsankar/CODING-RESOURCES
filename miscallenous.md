@@ -100,6 +100,7 @@
 ## PRODUCTIVTY
 
 - [HOW TO BE 10X MORE PRODUCTIVE](https://newsletter.techworld-with-milan.com/p/how-to-be-10x-more-productive?ref=dailydev)
+- [](https://thetshaped.dev/p/the-t-shaped-software-developer?ref=dailydev)
 
 ## NICHE WEBSITES
 
