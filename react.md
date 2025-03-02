@@ -43,7 +43,7 @@
 ## PORTFOLIO IDEAS
 
 - [15 PORTFOLIO REACT PORTFOLIO TEMPLATES](https://www.codewithfaraz.com/article/107/15-inspiring-react-portfolio-templates-for-2023#portfolio-website-v2-0)
-
+- [10 CREATIVE OPEN SOURCE PORTFOLIO TEMPLATES](https://dev.to/justin3go/10-creative-open-source-portfolio-templates-o9n?ref=dailydev)
 - [PORTFOLIO STRUGGLES](https://uxplanet.org/portfolio-struggles-97534912aafe)
 
 - [PORTFOLIO IDEAS](https://portfolio-ideas.vercel.app/portfolio.html)

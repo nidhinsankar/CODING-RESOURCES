@@ -12,6 +12,7 @@
 
 ## REACT NATIVE PROJECTS
 
+- [7 MAJOR MOBILE APP UI DESIGN TRENDS FOR 2025](https://medium.com/javarevisited/7-major-mobile-app-ui-design-trends-for-2025-8816bb5f517b)
 - [BUILD A REACT NATIVE CHAT APP COMPREHENSIVE GUIDE](https://medium.com/@mkilincaslan/build-a-react-native-chat-app-a-comprehensive-guide-2852e5434e54)
 
 ## REACT NATIVE RELATED BLOGS
