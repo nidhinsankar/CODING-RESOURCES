@@ -89,9 +89,11 @@
 - [HOW I TRICKED MY BRAIN TO BE ADDICTED TO CODING](https://medium.com/algomaster-io/how-i-tricked-my-brain-to-be-addicted-to-coding-af95dba4f695)
 - [15 MOST PROFITABLE SMALL BUSINESS IDEAS WORTH STARTING IN 2025](https://medium.com/@thestrategicentrepreneur/15-most-profitable-small-business-ideas-worth-starting-in-2025-476cc100b5fc)
 - [MAKING 26000 MONTH WITH APPS](https://medium.com/@codingwinner/making-26-000-month-with-apps-1ec09d7e0445)
+- [](https://itnext.io/yes-heres-the-best-way-to-build-a-saas-or-micro-saas-a59c75f07def)
 
 ## SALES
 
+- [](https://medium.com/better-marketing/the-true-art-of-being-customer-centric-212e3ef07d94)
 - [WHY SO MANY ENTREPRENEURS SUCK AT SALES](https://medium.com/entrepreneur-s-handbook/why-so-many-entrepreneurs-suck-at-sales-and-how-to-fix-it-04463512d3d2)
 
 - [PROJECT IDEAS DON'T HAVE TO BE UNIQUE HERE WHY](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)
