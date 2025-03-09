@@ -94,6 +94,7 @@
 ## SALES
 
 - [THE TRUE ART OF BEING CUSTOMER CENTRIC](https://medium.com/better-marketing/the-true-art-of-being-customer-centric-212e3ef07d94)
+
 - [WHY SO MANY ENTREPRENEURS SUCK AT SALES](https://medium.com/entrepreneur-s-handbook/why-so-many-entrepreneurs-suck-at-sales-and-how-to-fix-it-04463512d3d2)
 
 - [PROJECT IDEAS DON'T HAVE TO BE UNIQUE HERE WHY](https://dev.to/mdmarufsarker/project-ideas-dont-have-to-be-unique-heres-why-4fkk)

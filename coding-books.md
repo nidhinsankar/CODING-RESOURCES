@@ -13,6 +13,10 @@
 - CSS Secrets: Better Solutions to Everyday Web Design Problems
 - The Art of Micro Frontends: Build websites using compositional UIs that grow naturally as your application scales
 
+## BOOKS RELATED TO COMPUTER SCIENCE
+
+- [FREE COMPUTER BOOKS WEBSITE LINKS](https://freecomputerbooks.com/)
+
 ## RESOURCES LINKS
 
 - [TOP 30 POPULAR WEBSITES TO LEARN CODING](https://medium.com/@letscodefuture/top-30-popularwebsites-to-learn-coding-b8ba112539a3)
