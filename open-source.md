@@ -15,6 +15,8 @@
 
 - [HOW TO CONTRIBUTE TO OPENSOURCE](https://opensource.guide/how-to-contribute/)
 
+- [YOU CAN OPEN A STARTUP IN OPEN SOURCE AND QUIT YOUR DAILY JOB](https://dev.to/nevodavid/you-can-open-a-startup-in-open-source-and-quit-your-daily-job-3ld5?ref=dailydev)
+
 ## LEARNING GUIDE BLOGS
 
 - [STOP PAYING FOR COURSES DO THIS INSTEAD](https://medium.com/@axel.em.casas/stop-paying-for-courses-do-this-instead-3bfd1b4b387f)
