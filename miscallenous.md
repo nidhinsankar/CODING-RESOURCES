@@ -6,7 +6,7 @@
 
 ## LINKS FOR MISCALLENOUS TOPICS ABOUT LOGICAL AND PROGRAMMING TOPICS
 
-- [](https://code.likeagirl.io/9-lessons-from-a-principal-engineer-that-made-me-a-better-developer-4e6dd978322a)
+- [9 LESSONS FROM A PRINCIPAL ENGINEER THAT MADE A BETTER DEVELOPER](https://code.likeagirl.io/9-lessons-from-a-principal-engineer-that-made-me-a-better-developer-4e6dd978322a)
 
 - [TOP 15 VSCODE EXTENSION TO BOOST YOUR WORKFLOW](https://blog.stackademic.com/top-15-vs-code-extensions-to-boost-your-workflow-9013a0a550dc)
 

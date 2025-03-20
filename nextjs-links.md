@@ -40,6 +40,8 @@
 
 - [BUILD AN ONLINE STORE IN ONE HOUR WITH NEXTJS](https://javascript.plainenglish.io/build-an-online-store-in-one-hour-with-next-js-bf4e52f2c594)
 
+- [BUILD A CUSTOM SAAS CRM IN HOURS NOT MONTHS](https://shreyvijayvargiya26.medium.com/build-a-custom-saas-crm-in-hours-not-months-with-this-react-next-js-template-7e2603737f83)
+
 ## APP IDEAS
 
 - [VSCODE THEMED PORTFOLIO](https://vscode-portfolio.vercel.app/articles)
