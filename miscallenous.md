@@ -6,6 +6,8 @@
 
 ## LINKS FOR MISCALLENOUS TOPICS ABOUT LOGICAL AND PROGRAMMING TOPICS
 
+- [](https://code.likeagirl.io/9-lessons-from-a-principal-engineer-that-made-me-a-better-developer-4e6dd978322a)
+
 - [TOP 15 VSCODE EXTENSION TO BOOST YOUR WORKFLOW](https://blog.stackademic.com/top-15-vs-code-extensions-to-boost-your-workflow-9013a0a550dc)
 
 - [DOPAMINE EARNED BY DOING HARD THINGS FEELS REAL](https://medium.com/@anjishnuray/dopamine-earned-by-doing-hard-things-feels-real-b13238b3ad1a)
