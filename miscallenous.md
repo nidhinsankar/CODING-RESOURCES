@@ -71,6 +71,8 @@
 
 - [NEW SAAS IDEAS THAT YOU CAN TRY BUILDING](https://towardsaws.com/new-saas-ideas-that-you-can-try-building-bb4ece730238)
 
+- [6 Realistic Side Hustles You Can Do Remotely in 2025](https://medium.com/@cosmoskay1/3987423f9368)
+
 - [MY SAAS JOURNEY I REACHED MY 100K ARR GOAL NEW ONE 500K ARR](https://blog.codingwinner.com/my-saas-journey-i-reached-my-100k-arr-goal-new-one-500k-arr-by-2026-754ac6c8c134)
 
 - [BEST WORST ONLINE BUSINESSES TO START IN 2025](https://mitaboost.medium.com/best-worst-online-businesses-to-start-in-2025-9eb5db150620)
@@ -115,5 +117,6 @@
 ## PASSIVE INCOME
 
 - [32 PASSIVE INCOMES IDEAS TO BUILD WEALTH](https://medium.com/@samantawrites/32-proven-passive-income-ideas-to-build-wealth-in-2025-3de575f7b5ce)
+- [IF YOURE STILL BROKE IT IS BECAUSE YOURE INGORING THIS](https://medium.com/write-a-catalyst/if-youre-still-broke-it-s-because-you-re-ignoring-this-1-000-side-hustles-357c86d61480)
 - [MAKE MONEY ONLIE 50HR JOBS WITH NO EXPERIENCE NEEDED](https://medium.com/@sareena18/make-money-online-50-hr-jobs-with-no-experience-needed-d7860d594927)
 - [HOW MARKETING CAN SAVE YOU](https://medium.com/lounge-of-entrepreneurs/how-marketing-can-save-you-d50187c1f4c3)
