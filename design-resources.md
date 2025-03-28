@@ -39,6 +39,10 @@
 
 - [10 WEBSITES EVERY WEB DEVELOPER SHOULD KNOW](https://dev.to/adarsh-gupta/10-websites-every-web-developer-should-at-least-look-5fi2)
 
+## SOFTWARE DEVELOPMENT
+
+- [FUNDAMENTAL TECHNIQUES FOR SOFTWARE ARCHITECTURE](https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/?ref=dailydev)
+
 ## TOOLS
 
 - [7 USEFUL TOOLS FOR WEB DEVELOPER](https://javascript.plainenglish.io/7-useful-tools-for-web-developers-c8cb904999e4)
