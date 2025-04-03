@@ -65,7 +65,7 @@
 ## SAAS IDEAS
 
 - [TOP SAAS STARTUP IDEAS](https://medium.com/@gyanendraknojiya/top-saas-startup-ideas-your-next-big-success-story-6869dc2db0a0)
-
+- [3 SIDE PROJECT IDEAS PEOPLE ARE WAITING](https://medium.com/@katt_72306/3-side-project-ideas-people-are-waiting-for-262e6348bd42)
 - [JOURNEY 100M FROM MEDIUM AND HOW MUCH I EARNED S FAR](https://medium.com/write-a-catalyst/journey-100-m-from-medium-and-how-much-have-i-earned-so-far-30a419de6eaf)
 - [SAAS IDEA THAT YOU CAN TRY BUILDING](https://medium.com/@shivanshudev/saas-idea-that-you-can-try-building-8a8715cf2e8d)
 - [BUILDING A PROFITABLE SAAS IN 7 DAYS MY JOURNEY WITH WASP](https://medium.com/@Luna-Rojas/building-a-profitable-saas-in-7-days-my-journey-with-wasp-1e4ea8744ea9)

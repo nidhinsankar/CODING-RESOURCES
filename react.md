@@ -55,6 +55,8 @@
 
 - [DRIBBLE PERSONAL WEBSITE-2](https://dribbble.com/shots/22110108-Subtle-Folio-Portfolio-Framer-Template)
 
+- [24 BEST FREE OPEN SOURCE REACT PORTFOLIO PAGES TEMPLATES](https://reactjsexample.com/24-best-free-open-source-react-portfolio-page-templates/)
+
 - [5 PROJECTS YOU CAN DO IN 2025](https://freedium.cfd/https://medium.com/@irenemmassyy/5-projects-you-can-do-in-2025-to-master-front-end-development-374ae7cd2877)
 
 - [BEST PROJECTS THAT YOU CAN BUILD IN ONE DAY](https://gyanendraknojiya.medium.com/best-projects-that-you-can-build-in-one-day-a55743fd242e)
