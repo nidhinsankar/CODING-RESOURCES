@@ -1,3 +1,9 @@
+# DESIGN RESOURCES
+
+## DIGITAL GARDEN
+
+- [WHY NEED A DIGITAL GARDE HOW TO START GUIDE](https://infosecwriteups.com/why-you-need-a-digital-garden-how-to-start-guide-a1f30f818c75)
+
 # DESIGN RESOURCES FOR DEVELOPERS
 
 - [50 WEBSITES FOR WEB DESIGN INSPIRATION AND IDEAS](https://dev.to/devluc/50-best-websites-for-web-design-inspiration-and-ideas-be6?context=digest)
