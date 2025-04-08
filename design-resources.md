@@ -10,6 +10,8 @@
 
 - [FRONTEND RESOURCES](https://dev.to/miguelrodriguezp99/frontend-resources-1dl4?context=digest)
 
+- [HOW I CREATED UI WITH CHATGPTS NEW IMAGE GENERATOR](https://medium.com/design-bootcamp/how-i-created-ui-with-chatgpts-new-image-generator-4o-d52389a5833e)
+
 ## UI DESIGN SYSTEM
 
 - [PRACTICAL GUIDE TO CREATING A DESIGN SYSTEM](https://dev.to/woovi/practical-guide-to-creating-a-design-system-1b3p?ref=dailydev)

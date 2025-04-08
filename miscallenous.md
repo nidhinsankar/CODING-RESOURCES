@@ -6,8 +6,7 @@
 
 ## LINKS FOR MISCALLENOUS TOPICS ABOUT LOGICAL AND PROGRAMMING TOPICS
 
-- [9 LESSONS FROM A PRINCIPAL ENGINEER THAT MADE A BETTER DEVELOPER](https://code.likeagirl.io/9-lessons-from-a-principal-engineer-that-made-me-a-better-developer-4e6dd978322a)
-
+- [9 LESSONS FROM A PRINCIPAL ENGINEER THAT MADE A BETTER DEVELOPER](https://code.likeagirl.io/9-lessons-from-a-principal-engineer-that-made-me-a-better-developer-4e6dd978322a) -[THE GUIDE TO BECOMING A CAREER PROGRAMMER WITHOUT A DEGREE](https://medium.com/@Jawerty/the-guide-to-becoming-a-career-programmer-without-a-degree-e77484d2e7d6)
 - [TOP 15 VSCODE EXTENSION TO BOOST YOUR WORKFLOW](https://blog.stackademic.com/top-15-vs-code-extensions-to-boost-your-workflow-9013a0a550dc)
 
 - [DOPAMINE EARNED BY DOING HARD THINGS FEELS REAL](https://medium.com/@anjishnuray/dopamine-earned-by-doing-hard-things-feels-real-b13238b3ad1a)
