@@ -7,8 +7,10 @@
 ## LINKS FOR MISCALLENOUS TOPICS ABOUT LOGICAL AND PROGRAMMING TOPICS
 
 - [9 LESSONS FROM A PRINCIPAL ENGINEER THAT MADE A BETTER DEVELOPER](https://code.likeagirl.io/9-lessons-from-a-principal-engineer-that-made-me-a-better-developer-4e6dd978322a) -[THE GUIDE TO BECOMING A CAREER PROGRAMMER WITHOUT A DEGREE](https://medium.com/@Jawerty/the-guide-to-becoming-a-career-programmer-without-a-degree-e77484d2e7d6)
+- [HOW TO FIND A SOFTWARE DEVELOPER JOB IN 2023 WITH LITTLE TO NO EXPERIENCE](https://www.theseniordev.com/blog/how-to-find-a-software-developer-job-in-2023-with-little-to-no-experience)
+- [HOW TO GET PROGRAMMING JOB WITH NO EXPERIENCE](https://www.indeed.com/career-advice/finding-a-job/how-to-get-programming-job-with-no-experience)
 - [TOP 15 VSCODE EXTENSION TO BOOST YOUR WORKFLOW](https://blog.stackademic.com/top-15-vs-code-extensions-to-boost-your-workflow-9013a0a550dc)
-
+- [ONCE YUR ARE LAID OFF YOU WILL BE SAME AGAIN](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/?ref=dailydev)
 - [DOPAMINE EARNED BY DOING HARD THINGS FEELS REAL](https://medium.com/@anjishnuray/dopamine-earned-by-doing-hard-things-feels-real-b13238b3ad1a)
 - [SIDE PROJECTS HAUNTING](https://cassidoo.co/post/side-project-haunting/?ref=dailydev)
 - [LINUX CREATOR REVEALS THE FUTURE OF PROGRAMMING WITH AI](https://medium.com/stackademic/linux-creator-reveals-the-future-of-programming-with-ai-91455af6747e)
