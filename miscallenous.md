@@ -11,6 +11,7 @@
 - [HOW TO GET PROGRAMMING JOB WITH NO EXPERIENCE](https://www.indeed.com/career-advice/finding-a-job/how-to-get-programming-job-with-no-experience)
 - [TOP 15 VSCODE EXTENSION TO BOOST YOUR WORKFLOW](https://blog.stackademic.com/top-15-vs-code-extensions-to-boost-your-workflow-9013a0a550dc)
 - [ONCE YUR ARE LAID OFF YOU WILL BE SAME AGAIN](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/?ref=dailydev)
+- [THE PATH TO BECOMING A TOP 1 PROGRAMMER](https://pixicstudio.medium.com/the-path-to-becoming-a-top-1-programmer-0102fa0ea657)
 - [DOPAMINE EARNED BY DOING HARD THINGS FEELS REAL](https://medium.com/@anjishnuray/dopamine-earned-by-doing-hard-things-feels-real-b13238b3ad1a)
 - [SIDE PROJECTS HAUNTING](https://cassidoo.co/post/side-project-haunting/?ref=dailydev)
 - [LINUX CREATOR REVEALS THE FUTURE OF PROGRAMMING WITH AI](https://medium.com/stackademic/linux-creator-reveals-the-future-of-programming-with-ai-91455af6747e)
