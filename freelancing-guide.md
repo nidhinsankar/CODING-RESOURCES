@@ -38,7 +38,8 @@
 
 - [BLOG DUOMLY](https://www.blog.duomly.com/)
 - [HOW I CODE PROFITABLE APPS SOLO NO WASTED WITH AI](https://mitaboost.medium.com/how-i-code-profitable-apps-solo-no-wasted-time-with-ai-5a5751d2cf74)
-- [](https://dev.to/encore/build-a-production-ready-saas-application-44nb?ref=dailydev)
+- [TOP STARTUP IDEAS FOR 2025](https://freedium.cfd/https://marshallhargrave.medium.com/top-startup-ideas-for-2025-sourced-from-reddit-2268d445540e)
+- [BUILD A PRODUCTION READY SAAS APPLICATION](https://dev.to/encore/build-a-production-ready-saas-application-44nb?ref=dailydev)
 - [THE ULTIMATE GUIDE TO GENERATING KILLER SAAS IDEAS](https://blog.stackademic.com/the-ultimate-guide-to-generating-killer-saas-ideas-in-2024-e02a4290bcc0?gi=aba7e1b2d5ec)
 - [PROJECT IDEA TO MAKE YOU A BETTER DEVELOPER](https://dev.to/tamerlang/project-ideas-to-make-you-a-better-developer-37l3)
 
