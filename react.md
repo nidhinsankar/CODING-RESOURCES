@@ -52,7 +52,7 @@
 
 - [PORTFOLIO IDEAS](https://portfolio-ideas.vercel.app/portfolio.html)
 - [DRIBBLE PERSONAL WEBSITE-1](https://dribbble.com/shots/19765440-Personal-Portfolio)
-
+- [STEP BY STEP GUIDE USING A CANVAS](https://medium.com/realworld-ai-use-cases/step-by-step-guide-using-a-canvas-with-cursor-for-creative-projects-0f48e611e162)
 - [DRIBBLE PERSONAL WEBSITE-2](https://dribbble.com/shots/22110108-Subtle-Folio-Portfolio-Framer-Template)
 
 - [24 BEST FREE OPEN SOURCE REACT PORTFOLIO PAGES TEMPLATES](https://reactjsexample.com/24-best-free-open-source-react-portfolio-page-templates/)

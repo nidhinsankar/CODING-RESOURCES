@@ -35,6 +35,8 @@
 
 - [FRONTEND STIDY GUIDE](https://frontendpro.hashnode.dev/frontend-study-guide?source=more_articles_bottom_blogs)
 
+- [WANT TO SUCCEED IN CODING INTERVIEWS START BY ASKING THESE 7 QUESTIONS](https://medium.com/@anthonydmays/want-to-succeed-in-coding-interviews-start-by-asking-these-7-questions-a9879b6e9322)
+
 ## PROGRAMMING LESSONS
 
 - [9 THINGS I WISH I KNEW I WISH I WHEN I STARTED PROGRAMMING](https://www.freedium.cfd/https://medium.com/@ashishps/9-things-i-wish-i-knew-when-i-started-programming-52b714d43326)
