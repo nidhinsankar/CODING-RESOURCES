@@ -1,3 +1,8 @@
+# PROJECT IDEAS LINKS
+
+- [PROJECT IDEAS BLOGS](#project-ideas-blogs)
+- [PROJECT IDEAS](#project-ideas)
+
 ## PROJECT IDEAS BLOGS
 
 - [BLOG DUOMLY](https://www.blog.duomly.com/)
@@ -15,8 +20,8 @@
 - [BUILD LEARN MONETIZE 5 PYTHON PROJECTS AND MICROSAAS IDEAS](https://mostsignificant.github.io/2024/12/15/build-learn-monetize-5-python-projects-and-microsaas-ideas-for-2025.html)
 - [7 MOST PROFITABLE WORK FROM HOME BUSINESS](https://medium.com/mrcollins-life-hub/7-most-profitable-work-from-home-business-ideas-for-2025-make-money-online-c0110931f99a)
 
-PROJECT-IDEAS
+## PROJECT-IDEAS
 
-- [](https://medium.com/@mohantaankit2002/building-a-cms-with-next-js-and-typescript-6211abb488e4)
+- [BUILDING A CMS WITH NEXTJS AND TYPESCRIPT](https://medium.com/@mohantaankit2002/building-a-cms-with-next-js-and-typescript-6211abb488e4)
 
-- [](https://medium.com/@mohantaankit2002/implementing-real-time-collaborative-features-in-a-next-js-app-using-webrtc-fe5c97cb9e86)
+- [IMPLEMENTING REAL TIME COLLABORATIVE FEATURES IN A NEXTJS APP USING WEBRTC](https://medium.com/@mohantaankit2002/implementing-real-time-collaborative-features-in-a-next-js-app-using-webrtc-fe5c97cb9e86)
