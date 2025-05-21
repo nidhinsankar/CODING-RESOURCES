@@ -6,7 +6,11 @@
 
 ## LINKS FOR MISCALLENOUS TOPICS ABOUT LOGICAL AND PROGRAMMING TOPICS
 
-- [9 LESSONS FROM A PRINCIPAL ENGINEER THAT MADE A BETTER DEVELOPER](https://code.likeagirl.io/9-lessons-from-a-principal-engineer-that-made-me-a-better-developer-4e6dd978322a) -[THE GUIDE TO BECOMING A CAREER PROGRAMMER WITHOUT A DEGREE](https://medium.com/@Jawerty/the-guide-to-becoming-a-career-programmer-without-a-degree-e77484d2e7d6)
+- [9 LESSONS FROM A PRINCIPAL ENGINEER THAT MADE A BETTER DEVELOPER](https://code.likeagirl.io/9-lessons-from-a-principal-engineer-that-made-me-a-better-developer-4e6dd978322a)
+
+  -[THE GUIDE TO BECOMING A CAREER PROGRAMMER WITHOUT A DEGREE](https://medium.com/@Jawerty/the-guide-to-becoming-a-career-programmer-without-a-degree-e77484d2e7d6)
+
+- [CODING WAS HARD UNTIL I LEARNED THESE 7 THINGS](https://javascript.plainenglish.io/coding-was-hard-until-i-learned-these-7-things-2efb7071a986)
 - [HOW TO FIND A SOFTWARE DEVELOPER JOB IN 2023 WITH LITTLE TO NO EXPERIENCE](https://www.theseniordev.com/blog/how-to-find-a-software-developer-job-in-2023-with-little-to-no-experience)
 - [HOW TO GET PROGRAMMING JOB WITH NO EXPERIENCE](https://www.indeed.com/career-advice/finding-a-job/how-to-get-programming-job-with-no-experience)
 - [TOP 15 VSCODE EXTENSION TO BOOST YOUR WORKFLOW](https://blog.stackademic.com/top-15-vs-code-extensions-to-boost-your-workflow-9013a0a550dc)
