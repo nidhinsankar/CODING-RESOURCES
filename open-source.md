@@ -51,7 +51,7 @@
 
 - [TOP FREE APIS EVERY DEVELOPER SHOULD KNOW LIP](https://dev.to/prodevstaff/top-free-apis-every-developer-should-know-1ip)
 
-- [](https://medium.com/@shivanshudev/10-opensource-saas-alternatives-to-paid-ones-d3ba841ad847)
+- [10 OPEN SOURCE SAAS ALTERNATIVES TO PAID ONES ](https://medium.com/@shivanshudev/10-opensource-saas-alternatives-to-paid-ones-d3ba841ad847)
 
 ## AI APPS
 
