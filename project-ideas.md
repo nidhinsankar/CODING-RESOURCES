@@ -22,8 +22,8 @@
 
 ## PROJECT-IDEAS
 
-- [](https://medium.com/swlh/4-boring-startup-ideas-screaming-to-be-built-and-how-to-build-them-f267c7d539da)
-- [](https://medium.com/@shivanshudev/7-open-source-saas-tech-stack-for-startups-e483e71fc133)
+- [4 BORING STARTUPS IDEAS SCREAMING TO BE BUILD AN HOW TO BUILD THEM](https://medium.com/swlh/4-boring-startup-ideas-screaming-to-be-built-and-how-to-build-them-f267c7d539da)
+- [7 OPEN SOURCE SAAS TECH STACK FOR STARTUPS](https://medium.com/@shivanshudev/7-open-source-saas-tech-stack-for-startups-e483e71fc133)
 - [BUILDING A CMS WITH NEXTJS AND TYPESCRIPT](https://medium.com/@mohantaankit2002/building-a-cms-with-next-js-and-typescript-6211abb488e4)
 
 - [IMPLEMENTING REAL TIME COLLABORATIVE FEATURES IN A NEXTJS APP USING WEBRTC](https://medium.com/@mohantaankit2002/implementing-real-time-collaborative-features-in-a-next-js-app-using-webrtc-fe5c97cb9e86)

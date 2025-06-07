@@ -10,7 +10,7 @@
 
 ## FRONTEND ENGINEER BLOGS
 
-- [](https://frontendatscale.com/issues/23/?ref=dailydev)
+- [FRONTENDSCALE BLOGS LINK](https://frontendatscale.com/issues/23/?ref=dailydev)
 
 ## INTERNAL WORKING BLOGS
 
