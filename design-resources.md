@@ -30,6 +30,7 @@
 - [BOOKS I READ TO PREPARE FOR MY GOOGLE AND MICROSOFT](https://medium.com/javarevisited/books-i-read-to-prepare-for-my-google-and-microsoft-system-design-rounds-0615d0976e49)
 
 - [CRACKING FRONTEND SYSTEM DESIGN INTERVIEWS A COMPREHENSIVE GUIDE](https://blog.stackademic.com/cracking-front-end-system-design-interviews-a-comprehensive-guide-07d9e5c06b57)
+- [SYSTEM-DESIGN-HARD-UNTIL-I-LEARNED-THESE-30-CONCEPTS](https://medium.com/algomaster-io/system-design-was-hard-until-i-learned-these-30-concepts-78042ff99cae)
 
 ## FRONTEND DESIGN PATTERN
 
