@@ -40,3 +40,7 @@
 ## DSA LEARNINGS BLOG
 
 - [WHAT I LEARNED FROM SOLVING 1200 LEETCODE PROBLEMS ](https://freedium.cfd/https://ai.plainenglish.io/what-i-learned-from-solving-1200-leetcode-problems-8c3615ac0b71)
+
+- [HOW TO PREPARE FOR DSA ZERO TO HERO](https://medium.com/@tushar_patil/how-to-prepare-for-dsa-zero-to-hero-53ee4b1e1ebd)
+
+- [HOW I MASTERED DATA STRUCTURES AND ALOGRITHMS](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
